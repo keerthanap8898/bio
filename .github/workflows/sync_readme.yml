@@ -2,7 +2,7 @@ name: Sync README from Repo-A
 
 on:
   schedule:
-    - cron: '*/5 * * * *'   # every 30 minutes (UTC)
+    - cron: '*/8 * * * *'   # every 8 minutes (UTC)
   workflow_dispatch:          # allow manual runs
 
 permissions:
