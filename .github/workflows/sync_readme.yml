@@ -1,0 +1,54 @@
+name: Sync README from Repo-A
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'   # every 30 minutes (UTC)
+  workflow_dispatch:          # allow manual runs
+
+permissions:
+  contents: write             # lets this workflow push to Repo-X
+
+concurrency:
+  group: sync-readme
+  cancel-in-progress: true    # avoid overlapping runs
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    env:
+      # Upstream raw URL for the README in Repo-A (public)
+      UPSTREAM_RAW: https://raw.githubusercontent.com/keerthanap8898/Repository-A/main/README.md
+
+    steps:
+      - name: Checkout Repo-X
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Fetch upstream README.md
+        run: |
+          set -euo pipefail
+          curl -fsSL "$UPSTREAM_RAW" -o README_from_A.md
+
+      - name: Update local README.md if changed
+        id: diff
+        run: |
+          set -euo pipefail
+          changed=1
+          if [ -f README.md ] && cmp -s README_from_A.md README.md; then
+            echo "No change."
+            changed=0
+          else
+            mv README_from_A.md README.md
+          fi
+          echo "changed=$changed" >> "$GITHUB_OUTPUT"
+
+      - name: Commit and push
+        if: steps.diff.outputs.changed == '1'
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Sync README from Repository-A [ci skip]"
+          git push
