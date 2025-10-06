@@ -1,6 +1,6 @@
 # Keerthana Purushotham - Networking  
 ### ***Relevant Links related to me & my work***  
-**`All Links are updated as of Oct 05, 2025 - 19:51 PST`**
+**`All Links are updated as of Oct 05, 2025 - 20:45 PST`**
 
 I’m a full-stack SDE with expertise in **cybersecurity, cloud, NLP & statistics**.  
 At **AWS**, I build predictive automation tools for CVE evaluation, design scalable cloud infra, & handle threat detection for Amazon Linux.  
@@ -20,7 +20,7 @@ I seek impactful roles to drive innovation at scale.
 - Calendly [calendly.com/keerthanap0808/30min](https://calendly.com/keerthanap0808/30min)  
 - 📧 Email: [keep.consult@proton.me](mailto:keep.consult@proton.me)  
 - 📱 Phone (Google Voice): [+1 360-328-1182](tel:+13603281182)  
-- Resume [drive.google.com/file/d/1dHvrHnjDoikl2EnZweyjf7x8anKZKQe6/view](https://drive.google.com/file/d/1dHvrHnjDoikl2EnZweyjf7x8anKZKQe6/view)  
+- Resume [drive.google.com/file/d/1UapFP3_FwYcy1cHZOJfyerAdeS7hOjur/view](https://drive.google.com/file/d/1UapFP3_FwYcy1cHZOJfyerAdeS7hOjur/view)  
 - Portfolio [drive.google.com/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU/view](https://drive.google.com/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU/view)  
 - GitHub [github.com/keerthanap8898](https://github.com/keerthanap8898)  
 - Google Scholar [scholar.google.com/citations?hl=en&user=OhmFGtIAAAAJ](https://scholar.google.com/citations?hl=en&user=OhmFGtIAAAAJ)  
