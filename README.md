@@ -43,32 +43,32 @@ I seek impactful roles to drive innovation at scale.
 1. **Text To Video App**
    > - ***Async API using the Genmo Mochi-1 model hosted on 8×H100 GPU Kubernetes work nodes.***
    > - Links:
-   >   - a. LinkedIn - linkedin.com/feed/update/urn:li:ugcPost:7373897755317960704](https://www.linkedin.com/feed/update/urn:li:ugcPost:7373897755317960704)
-   >   - b. [GitHub – WIP - github.com/keerthanap8898/TextToVideoAPI](https://github.com/keerthanap8898/TextToVideoAPI)
+   >   - a. LinkedIn - [linkedin.com/feed/update/urn:li:ugcPost:7373897755317960704](https://www.linkedin.com/feed/update/urn:li:ugcPost:7373897755317960704)
+   >   - b. GitHub – WIP - [github.com/keerthanap8898/TextToVideoAPI](https://github.com/keerthanap8898/TextToVideoAPI)
 
 2. **Accuracy Is Not Enough — Confusion Matrix Metrics That Actually Work in CVE Impact Prediction**
    > - ***An applied research summary introducing advanced confusion-matrix metrics that outperform accuracy in predicting CVE exploitability impact.***
    > - Links:
-   >   - a. [LinkedIn - linkedin.com/posts/keerthanapurushotham_vulnerabilitymanagement-cve-security-activity-7374937046538436608-quKj](https://www.linkedin.com/posts/keerthanapurushotham_vulnerabilitymanagement-cve-security-activity-7374937046538436608-quKj)
-   >   - b. [Substack - keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion](https://keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion)
-   >   - c. [Medium - medium.com/@keerthanapurushotham/accuracy-is-not-enough-confusion-matrix-metrics-that-actually-work-in-cve-impact-prediction-d4bafd9cec1b](https://medium.com/@keerthanapurushotham/accuracy-is-not-enough-confusion-matrix-metrics-that-actually-work-in-cve-impact-prediction-d4bafd9cec1b)
+   >   - a. LinkedIn - [linkedin.com/posts/keerthanapurushotham_vulnerabilitymanagement-cve-security-activity-7374937046538436608-quKj](https://www.linkedin.com/posts/keerthanapurushotham_vulnerabilitymanagement-cve-security-activity-7374937046538436608-quKj)
+   >   - b. Substack - [keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion](https://keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion)
+   >   - c. Medium - [medium.com/@keerthanapurushotham/accuracy-is-not-enough-confusion-matrix-metrics-that-actually-work-in-cve-impact-prediction-d4bafd9cec1b](https://medium.com/@keerthanapurushotham/accuracy-is-not-enough-confusion-matrix-metrics-that-actually-work-in-cve-impact-prediction-d4bafd9cec1b)
 
 3. **Cloud Storage Security Risks, Practices & Measures: A Review | 40 cites — Jan 1 2020**
    > - ***Comprehensive review of security threats, mitigation practices, and compliance measures in enterprise cloud storage systems.***
    > - Links:
-   >   - a. [IEEE Xplore - ieeexplore.ieee.org/abstract/document/9298281](https://ieeexplore.ieee.org/abstract/document/9298281)
+   >   - a. IEEE Xplore - [ieeexplore.ieee.org/abstract/document/9298281](https://ieeexplore.ieee.org/abstract/document/9298281)
 
 4. **Image Denoising using Auto-encoders & Spatial Filters for Gaussian Noise | 7 cites — Mar 15 2021**
    > - ***Proposes a hybrid auto-encoder + spatial filter framework to denoise medical images affected by Gaussian noise.***
    > - Links:
-   >   - a. [IEEE Xplore - ieeexplore.ieee.org/abstract/document/9377166](https://ieeexplore.ieee.org/abstract/document/9377166)
-   >   - b. [GitHub - github.com/keerthanap8898/Detecting-pneumonias-from-chest-X-rays-using-different-CNN-architectures](https://github.com/keerthanap8898/Detecting-pneumonias-from-chest-X-rays-using-different-CNN-architectures)
+   >   - a. IEEE Xplore - [ieeexplore.ieee.org/abstract/document/9377166](https://ieeexplore.ieee.org/abstract/document/9377166)
+   >   - b. GitHub - [github.com/keerthanap8898/Detecting-pneumonias-from-chest-X-rays-using-different-CNN-architectures](https://github.com/keerthanap8898/Detecting-pneumonias-from-chest-X-rays-using-different-CNN-architectures)
 
 5. **Context-Based Filtering of Conversational Data | 2 cites — May 22 2021**
    > - ***Introduces a context-aware comment filtering system for NLP pipelines using semantic relevance modeling.***
    > - Links:
-   >   - a. [ACL Anthology - aclanthology.org/2020.icon-workshop.5](https://aclanthology.org/2020.icon-workshop.5/)
-   >   - b. [GitHub - github.com/keerthanap8898/context-based-comment-filtering](https://github.com/keerthanap8898/context-based-comment-filtering)
+   >   - a. ACL Anthology - [aclanthology.org/2020.icon-workshop.5](https://aclanthology.org/2020.icon-workshop.5/)
+   >   - b. GitHub - [github.com/keerthanap8898/context-based-comment-filtering](https://github.com/keerthanap8898/context-based-comment-filtering)
 
 6. 🧩 **Mini Projects** | [linkedin.com/in/keerthanapurushotham/details/projects](https://www.linkedin.com/in/keerthanapurushotham/details/projects/)
 
