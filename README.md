@@ -1,6 +1,6 @@
 # Keerthana Purushotham - Networking  
 ### ***Relevant Links related to me & my work***  
-**`Last updated as of Oct 09, 2025 - 12:57 PST`**
+**`Last updated as of Oct 11, 2025 - 06:45 PST`**
 
 I’m a full-stack SDE with expertise in **cybersecurity, cloud, NLP & statistics**.  
 At **AWS**, I build predictive automation tools for CVE evaluation, design scalable cloud infra, & handle threat detection for Amazon Linux.  
@@ -23,15 +23,16 @@ I seek impactful roles to drive innovation at scale.
 
 1. **LinkedIn** [linkedin.com/in/keerthanapurushotham](https://linkedin.com/in/keerthanapurushotham)
 2. **GitHub** [github.com/keerthanap8898](https://github.com/keerthanap8898)
-3. **Resume** [drive.google.com/file/d/1UapFP3_FwYcy1cHZOJfyerAdeS7hOjur/view](https://drive.google.com/file/d/1UapFP3_FwYcy1cHZOJfyerAdeS7hOjur/view)
-4. **Portfolio** [drive.google.com/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU/view](https://drive.google.com/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU/view) 
-5. **Google LM Chat** [notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655)
-6. **Other:**
+3. **Resume** [drive.google.com/file/d/11Wq_aOEjtjKN-Rib6bw4roBHWh-hJGFP/view](https://drive.google.com/file/d/11Wq_aOEjtjKN-Rib6bw4roBHWh-hJGFP/view)
+4. **Portfolio** [drive.google.com/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU/view](https://drive.google.com/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU/view)
+5. **Master Work-History** [drive.google.com/file/d/1rfnKRi1yG7e-KyQfpTxthXagnjXKVkGg/view](https://drive.google.com/file/d/1rfnKRi1yG7e-KyQfpTxthXagnjXKVkGg/view)
+6. **Google LM Chat** [notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655)
+7. **Other:**
    1. Google Scholar [scholar.google.com/citations?hl=en&user=OhmFGtIAAAAJ](https://scholar.google.com/citations?hl=en&user=OhmFGtIAAAAJ)  
    2. Medium [medium.com/@keerthanapurushotham](https://medium.com/@keerthanapurushotham)
    3. Substack [substack.com/@keerthanapurushotham](https://substack.com/@keerthanapurushotham)
    4. ResearchGate [researchgate.net/profile/Keerthana-Purushotham](https://www.researchgate.net/profile/Keerthana-Purushotham)
-   5. Google LM Audio Summary (g-Drive) [drive.google.com/file/d/1Kfpd49LE9jaoDZ9VL-BmTl9DS8O1-7uR/view](https://drive.google.com/file/d/1Kfpd49LE9jaoDZ9VL-BmTl9DS8O1-7uR/view)
+   5. Google LM Audio Summary (g-Drive) [drive.google.com/file/d/1TIv9bmw2HRo9JkZyHOzG4XH6CTmgmjTd/view](https://drive.google.com/file/d/1TIv9bmw2HRo9JkZyHOzG4XH6CTmgmjTd/view)
    6. Scopus Author Profile [scopus.com/authid/detail.uri?authorId=57221594595](https://www.scopus.com/authid/detail.uri?authorId=57221594595)
    7. ORCiD Author Profile [orcid.org/0009-0000-8197-7048](https://orcid.org/0009-0000-8197-7048)
    8. IEEE Author Profile [ieeexplore.ieee.org/author/37088644371](https://ieeexplore.ieee.org/author/37088644371)
