@@ -75,12 +75,13 @@ I seek impactful roles to drive innovation at scale.
 
 6. 🧩 **Mini Projects** | [linkedin.com/in/keerthanapurushotham/details/projects](https://www.linkedin.com/in/keerthanapurushotham/details/projects/)
 
-   > - a. ***Build a Neural CRF for Constituency Parsing*** : *Implemented a neural CRF parser using the CKY algorithm on the Penn Treebank (PTB) dataset. Computed the partition function within the NLL loss via the inside algorithm and trained models on Google Colab GPU for optimal performance.*  
-   > 
+   > - a. ***Build a Neural CRF for Constituency Parsing*** : *Implemented a neural CRF parser using the CKY algorithm on the Penn Treebank (PTB) dataset. Computed the partition function within the NLL loss via the inside algorithm and trained models on Google Colab GPU for optimal performance.*
+   >   - [*github.com/keerthanap8898/NeuralCRFs_for_ConstituencyParsing*](https://github.com/keerthanap8898/NeuralCRFs_for_ConstituencyParsing)
+ 
    > - b. ***Build a Neural Conditional Random Field (CRF) NER Tagger*** : *(How to build a baby BERT)* Developed BiLSTM + CRF architectures for Named Entity Recognition (NER), compared to a baseline BiLSTM tagger. Implemented and benchmarked both on GPU-enabled Colab environments.*  
-   > 
+   
    > - c. ***System Measurement (Ubuntu)*** : *Performed experiments to measure OS-level components including CPU scheduling, memory allocation, networking, and filesystem latency on Ubuntu systems; analyzed bottlenecks in system services.*  
-   > 
+   
    > - d. ***Automation of Irrigation Systems*** : *IoT-based Arduino project with moisture sensors and pumps to maintain optimal soil moisture by plant species. Awarded 2nd place in freshman Robotics & Engineering competition at MSRIT.*  
 
 ## 🖼️ Images
