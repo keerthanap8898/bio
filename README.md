@@ -1,6 +1,6 @@
 # Keerthana Purushotham - Networking  
 ### ***Relevant Links related to me & my work***  
-**`Last updated as of Oct 11, 2025 - 06:45 PST`**
+**`Last updated as of Oct 11, 2025 - 17:10 PST`**
 
 I’m a full-stack SDE with expertise in **cybersecurity, cloud, NLP & statistics**.  
 At **AWS**, I build predictive automation tools for CVE evaluation, design scalable cloud infra, & handle threat detection for Amazon Linux.  
@@ -23,7 +23,7 @@ I seek impactful roles to drive innovation at scale.
 
 1. **LinkedIn** [linkedin.com/in/keerthanapurushotham](https://linkedin.com/in/keerthanapurushotham)
 2. **GitHub** [github.com/keerthanap8898](https://github.com/keerthanap8898)
-3. **Resume** [drive.google.com/file/d/11Wq_aOEjtjKN-Rib6bw4roBHWh-hJGFP/view](https://drive.google.com/file/d/11Wq_aOEjtjKN-Rib6bw4roBHWh-hJGFP/view)
+3. **Resume** [drive.google.com/file/d/1XPdJYtJof3wu9F-XbDTbOg6WSbCEATDD/view](https://drive.google.com/file/d/1XPdJYtJof3wu9F-XbDTbOg6WSbCEATDD/view)
 4. **Portfolio** [drive.google.com/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU/view](https://drive.google.com/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU/view)
 5. **Master Work-History** [drive.google.com/file/d/1rfnKRi1yG7e-KyQfpTxthXagnjXKVkGg/view](https://drive.google.com/file/d/1rfnKRi1yG7e-KyQfpTxthXagnjXKVkGg/view)
 6. **Google LM Chat** [notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655)
@@ -75,12 +75,14 @@ I seek impactful roles to drive innovation at scale.
 
 6. 🧩 **Mini Projects** | [linkedin.com/in/keerthanapurushotham/details/projects](https://www.linkedin.com/in/keerthanapurushotham/details/projects/)
 
-   > - a. ***Build a Neural CRF for Constituency Parsing*** : *Implemented a neural CRF parser using the CKY algorithm on the Penn Treebank (PTB) dataset. Computed the partition function within the NLL loss via the inside algorithm and trained models on Google Colab GPU for optimal performance.*  
-   > 
-   > - b. ***Build a Neural Conditional Random Field (CRF) NER Tagger*** : *(How to build a baby BERT)* Developed BiLSTM + CRF architectures for Named Entity Recognition (NER), compared to a baseline BiLSTM tagger. Implemented and benchmarked both on GPU-enabled Colab environments.*  
-   > 
+   > - a. ***Build a Neural CRF for Constituency Parsing*** : *Implemented a neural CRF parser using the CKY algorithm on the Penn Treebank (PTB) dataset. Computed the partition function within the NLL loss via the inside algorithm and trained models on Google Colab GPU for optimal performance.*
+   >   - [*github.com/keerthanap8898/NeuralCRFs_for_ConstituencyParsing*](https://github.com/keerthanap8898/NeuralCRFs_for_ConstituencyParsing)
+ 
+   > - b. ***Build a Neural Conditional Random Field (CRF) NER Tagger*** : *(How to build a baby BERT)* Developed BiLSTM + CRF architectures for Named Entity Recognition (NER), compared to a baseline BiLSTM tagger. Implemented and benchmarked both on GPU-enabled Colab environments.*
+   >   - [*github.com/keerthanap8898/Neural-CRF_NER-Tagger/*](https://github.com/keerthanap8898/Neural-CRF_NER-Tagger/)
+   
    > - c. ***System Measurement (Ubuntu)*** : *Performed experiments to measure OS-level components including CPU scheduling, memory allocation, networking, and filesystem latency on Ubuntu systems; analyzed bottlenecks in system services.*  
-   > 
+   
    > - d. ***Automation of Irrigation Systems*** : *IoT-based Arduino project with moisture sensors and pumps to maintain optimal soil moisture by plant species. Awarded 2nd place in freshman Robotics & Engineering competition at MSRIT.*  
 
 ## 🖼️ Images
