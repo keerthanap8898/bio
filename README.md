@@ -88,7 +88,7 @@ I seek impactful roles to drive innovation at scale.
 ## 🖼️ Images
 - ### `Skills Mindmap`
 >  #### *Fed all my data into AI things and asked it to make a mindmap.*
-> ![Skills Mindmap](https://github.com/keerthanap8898/bio/blob/main/Winter%202025/Skills_mindmap_april-detailed-high-qlty.jpeg)
+> ![Skills Mindmap](https://github.com/keerthanap8898/bio/blob/main/Other/skills_mindmap_MAY_2025_JPEG.jpeg)
   ---
 - ### `Radar Chart: Skills Distribution Across Top Experiences`
 >  #### *Fed all my data into AI things and asked it to analyze all my skill distribution overall.*
