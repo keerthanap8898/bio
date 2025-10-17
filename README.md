@@ -95,7 +95,7 @@ I seek impactful roles to drive innovation at scale.
 > ![Radar Chart: Skills Distribution Across Top Experiences](https://github.com/keerthanap8898/bio/blob/main/Other/Radar%20Chart%3A%20Skills%20Distribution%20Across%20Top%20Experiences.png)
   ---
 - ### `Weighted Technical Value by Experience` 
->  #### *Fed all my data into AI things and asked it to identify analyze my individual experiences of significance.*
+>  #### *Fed all my data into AI things and asked it to identify & analyze my individual experiences of significance.*
 > ![Weighted Technical Value by Experience](https://github.com/keerthanap8898/bio/blob/main/Other/Weighted%20Technical%20Value%20by%20Experience%20%E2%80%94%20Keerthana%20Purushotham.png)
   ---
 - ### `Weighted Technical Value by Skill` 
