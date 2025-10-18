@@ -17,8 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       # Upstream raw URL for the README in Repo-A (public)
-      UPSTREAM_RAW: https://raw.githubusercontent.com/keerthanap8898/Resume_WorkLogs_Portfolio_Certificates/refs/heads/main/README.md
-
+      UPSTREAM_RAW: https://raw.githubusercontent.com/keerthanap8898/Resume_WorkLogs_Portfolio_Certificates/refs/heads/do-not-delete/README.md
     steps:
       - name: Checkout Repo-X
         uses: actions/checkout@v4
