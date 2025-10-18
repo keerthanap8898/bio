@@ -1,6 +1,6 @@
 # Keerthana Purushotham - Networking  
 ### ***Relevant Links related to me & my work***  
-**`Last updated as of Oct 11, 2025 - 17:10 PST`**
+**`Last updated as of Oct 17, 2025 - 14:30 PST`**
 
 I’m a full-stack SDE with expertise in **cybersecurity, cloud, NLP & statistics**.  
 At **AWS**, I build predictive automation tools for CVE evaluation, design scalable cloud infra, & handle threat detection for Amazon Linux.  
@@ -87,22 +87,26 @@ I seek impactful roles to drive innovation at scale.
 
 ## 🖼️ Images
 - ### `Skills Mindmap`
->  #### *Fed all my data into AI things and asked it to make a mindmap.*
+>  #### *Fed all my data into AI things, then asked it to make a mindmap.*
 > ![Skills Mindmap](https://github.com/keerthanap8898/bio/blob/main/Other/skills_mindmap_MAY_2025_JPEG.jpeg)
   ---
 - ### `Radar Chart: Skills Distribution Across Top Experiences`
->  #### *Fed all my data into AI things and asked it to analyze all my skill distribution overall.*
+>  #### *Fed all my data into AI things, then asked it to analyze all my skill distribution overall.*
 > ![Radar Chart: Skills Distribution Across Top Experiences](https://github.com/keerthanap8898/bio/blob/main/Other/Radar%20Chart%3A%20Skills%20Distribution%20Across%20Top%20Experiences.png)
   ---
 - ### `Weighted Technical Value by Experience` 
->  #### *Fed all my data into AI things and asked it to identify & analyze my individual experiences of significance.*
+>  #### *Fed all my data into AI things, then asked it to identify & analyze my individual experiences of significance.*
 > ![Weighted Technical Value by Experience](https://github.com/keerthanap8898/bio/blob/main/Other/Weighted%20Technical%20Value%20by%20Experience%20%E2%80%94%20Keerthana%20Purushotham.png)
   ---
 - ### `Weighted Technical Value by Skill` 
->  #### *Fed all my data into AI things and asked it to analyze all my skills and their depth.*
+>  #### *Fed all my data into AI things, then asked it to analyze all my skills & their depth.*
 > ![Weighted Technical Value by Skill](https://github.com/keerthanap8898/bio/blob/main/Other/Weighted%20Technical%20Value%20by%20Skill%20%E2%80%94%20Keerthana%20Purushotham.png)
   ---
 - ### `Portfolio Balance by Skill Group` 
->  #### *Fed all my data into AI things and asked it to make a high-level pie-chart.*
+>  #### *Fed all my data into AI things, then asked it to make a high-level pie-chart.*
 > ![Portfolio Balance by Skill Family](https://github.com/keerthanap8898/bio/blob/main/Other/Portfolio%20Balance%20by%20Skill%20Family%20%E2%80%94%20Keerthana%20Purushotham.png)
-  ---
+  --- 
+```
+Copyright (C) 2025  Keerthana Purushotham <keerthanap0808@gmail.com>, <kpurusho@ucsd.edu>, <keep.consult@proton.me>.
+Licensed under the GNU GPL v2. See LICENSE for details.
+```
