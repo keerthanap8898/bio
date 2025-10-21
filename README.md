@@ -55,6 +55,7 @@ I seek impactful roles to drive innovation at scale.
    >   - a. LinkedIn - [linkedin.com/posts/keerthanapurushotham_vulnerabilitymanagement-cve-security-activity-7374937046538436608-quKj](https://www.linkedin.com/posts/keerthanapurushotham_vulnerabilitymanagement-cve-security-activity-7374937046538436608-quKj)
    >   - b. Substack - [keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion](https://keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion)
    >   - c. Medium - [medium.com/@keerthanapurushotham/accuracy-is-not-enough-confusion-matrix-metrics-that-actually-work-in-cve-impact-prediction-d4bafd9cec1b](https://medium.com/@keerthanapurushotham/accuracy-is-not-enough-confusion-matrix-metrics-that-actually-work-in-cve-impact-prediction-d4bafd9cec1b)
+   >   - d. Github - [github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity)
 
 3. **Cloud Storage Security Risks, Practices & Measures: A Review | 40 cites — Jan 1 2020**
    > - ***Comprehensive review of security threats, mitigation practices, and compliance measures in enterprise cloud storage systems.***
