@@ -290,8 +290,9 @@ to attach them to the start of each source file to most effectively
 convey the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
-    Program Name: Context-based Comment Filtering
-    - This repository contains latex code that I intend to copyright for re-unability as a template.
+    Program Name: Personal Resume helper
+    - This repository contains latex code that I intend to copyright to aid 
+      re-usability as a template.
 
     Copyright (C) 2025  Keerthana Purushotham
     Contact: <keerthanap0808@gmail.com>, <keerthupuru@gmail.com>, <keep.consult@proton.me>.
