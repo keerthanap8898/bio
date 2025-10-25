@@ -1,6 +1,6 @@
 # Keerthana Purushotham - Networking  
 ### ***Relevant Links related to me & my work***  
-**`Last updated as of Oct 24, 2025 - 01:00 PST`**
+**`Last updated as of Oct 24, 2025 - 21:20 PST`**
 
 I’m a full-stack SDE with expertise in **cybersecurity, cloud, NLP & statistics**.  
 At **AWS**, I build predictive automation tools for CVE evaluation, design scalable cloud infra, & handle threat detection for Amazon Linux.  
@@ -28,7 +28,7 @@ I seek impactful roles to drive innovation at scale.
 #### ❻ **`AI Chatbot trained on Keerthana's Profile`** ( ***Google-LM*** ):
 > #### [notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655)
 #### ❼ **`Research`**:
->    - ➀ **Google Scholar** - [scholar.google.com/citations?hl=en&user=OhmFGtIAAAAJ](https://scholar.google.com/citations?hl=en&user=OhmFGtIAAAAJ)  
+>    - ➀ **Google Scholar** - [scholar.google.com/citations?user=tWzF13sAAAAJ](https://scholar.google.com/citations?user=tWzF13sAAAAJ)  
 >    - ➁ **Medium** - [medium.com/@keerthanapurushotham](https://medium.com/@keerthanapurushotham)
 >    - ➂ **Substack** - [substack.com/@keerthanapurushotham](https://substack.com/@keerthanapurushotham)
 >    - ➃ **ResearchGate** - [researchgate.net/profile/Keerthana-Purushotham](https://www.researchgate.net/profile/Keerthana-Purushotham)
