@@ -27,7 +27,7 @@ jobs:
       # ----------------------------
       - name: Clone Overleaf repo (Git integration)
         run: |
-          git clone https://git:${{ secrets.OVERLEAF_GIT_TOKEN }}@git.overleaf.com/${{ secrets.OVERLEAF_PROJECT_ID }} $BUILD_DIR
+          git clone https://git:${{ secrets.OVERLEAF_GIT_TOKEN }}@git.overleaf.com/${{ secrets.OVERLEAF_PROJECT_ID }}$BUILD_DIR
 
       # ----------------------------
       # 3️⃣ Compile with XeLaTeX
