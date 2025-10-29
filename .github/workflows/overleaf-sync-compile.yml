@@ -2,7 +2,7 @@ name: Overleaf Sync + XeLaTeX Build
 
 on:
   schedule:
-    - cron: '0 * * * *'   # Hourly
+    - cron: '0 * * * *'   # Run hourly
   workflow_dispatch:
 
 jobs:
@@ -11,6 +11,7 @@ jobs:
     permissions:
       contents: write
       actions: write
+
     env:
       OUTPUT_PDF: main.pdf
       BUILD_DIR: overleaf_build
@@ -19,15 +20,17 @@ jobs:
       # ----------------------------
       # 1️⃣ Checkout repository
       # ----------------------------
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       # ----------------------------
-      # 2️⃣ Clone Overleaf project via Git Token
+      # 2️⃣ Clone Overleaf project using Git token
       # ----------------------------
-      - name: Clone Overleaf repo (Git integration)
+      - name: Clone Overleaf project (Git integration)
         run: |
-          git clone https://git:${{ secrets.OVERLEAF_GIT_TOKEN }}@git.overleaf.com/${{ secrets.OVERLEAF_PROJECT_ID }}$BUILD_DIR
+          git clone https://git:${{ secrets.OVERLEAF_GIT_TOKEN }}@git.overleaf.com/${{ secrets.OVERLEAF_PROJECT_ID }}.git $BUILD_DIR
+          cd $BUILD_DIR
+          git checkout main || git checkout master || true
 
       # ----------------------------
       # 3️⃣ Compile with XeLaTeX
@@ -35,16 +38,17 @@ jobs:
       - name: Compile with XeLaTeX
         uses: xu-cheng/latex-action@v2
         with:
-          root_file: ${{ env.BUILD_DIR }}/main.tex
+          root_file: main.tex
           compiler: xelatex
           working_directory: ${{ env.BUILD_DIR }}
 
       # ----------------------------
-      # 4️⃣ Detect differences
+      # 4️⃣ Detect differences in repo
       # ----------------------------
-      - name: Detect diff
+      - name: Detect differences
         id: diffcheck
         run: |
+          cd $BUILD_DIR
           if git diff --quiet; then
             echo "changed=false" >> $GITHUB_OUTPUT
           else
@@ -62,23 +66,20 @@ jobs:
           path: ${{ env.BUILD_DIR }}/${{ env.OUTPUT_PDF }}
 
       # ----------------------------
-      # 6️⃣ Commit & push if changes exist
+      # 6️⃣ Commit and push if changed
       # ----------------------------
-      - name: Commit and push if changed
+      - name: Commit and push changes
         if: steps.diffcheck.outputs.changed == 'true'
-        env:
-          GIT_AUTHOR_NAME: Overleaf Sync Bot
-          GIT_AUTHOR_EMAIL: actions@github.com
         run: |
           cd $BUILD_DIR
-          git config user.name "$GIT_AUTHOR_NAME"
-          git config user.email "$GIT_AUTHOR_EMAIL"
+          git config user.name "Overleaf Sync Bot"
+          git config user.email "actions@github.com"
           git add .
           git commit -m "Overleaf Sync + XeLaTeX build [$(date -u +'%Y-%m-%dT%H:%M:%SZ')]"
-          git push origin master || git push origin main || true
+          git push origin main || git push origin master || true
 
       # ----------------------------
-      # 7️⃣ Delete workflow run if unchanged
+      # 7️⃣ Delete workflow run if no changes
       # ----------------------------
       - name: Delete workflow run if no change
         if: steps.diffcheck.outputs.changed == 'false'
