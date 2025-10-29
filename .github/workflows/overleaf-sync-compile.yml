@@ -16,26 +16,32 @@ jobs:
       BUILD_DIR: overleaf_build
 
     steps:
+      # ----------------------------
+      # 1️⃣ Checkout repository
+      # ----------------------------
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Sync from Overleaf
-        uses: subhamx/overleaf_sync_with_git@master
-        with:
-          OVERLEAF_PROJECT_ID: ${{ secrets.OVERLEAF_PROJECT_ID }}
-          OVERLEAF_COOKIE: ${{ secrets.OVERLEAF_COOKIE }}
-
-      - name: Copy synced files
+      # ----------------------------
+      # 2️⃣ Clone Overleaf project via Git Token
+      # ----------------------------
+      - name: Clone Overleaf repo (Git integration)
         run: |
-          mkdir -p $BUILD_DIR
-          cp -r artifacts/* $BUILD_DIR/
+          git clone https://git:${{ secrets.OVERLEAF_GIT_TOKEN }}@git.overleaf.com/${{ secrets.OVERLEAF_PROJECT_ID }} $BUILD_DIR
 
+      # ----------------------------
+      # 3️⃣ Compile with XeLaTeX
+      # ----------------------------
       - name: Compile with XeLaTeX
         uses: xu-cheng/latex-action@v2
         with:
           root_file: ${{ env.BUILD_DIR }}/main.tex
           compiler: xelatex
+          working_directory: ${{ env.BUILD_DIR }}
 
+      # ----------------------------
+      # 4️⃣ Detect differences
+      # ----------------------------
       - name: Detect diff
         id: diffcheck
         run: |
@@ -45,22 +51,35 @@ jobs:
             echo "changed=true" >> $GITHUB_OUTPUT
           fi
 
-      - name: Upload PDF
+      # ----------------------------
+      # 5️⃣ Upload compiled PDF
+      # ----------------------------
+      - name: Upload compiled PDF
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: compiled-pdf
           path: ${{ env.BUILD_DIR }}/${{ env.OUTPUT_PDF }}
 
+      # ----------------------------
+      # 6️⃣ Commit & push if changes exist
+      # ----------------------------
       - name: Commit and push if changed
         if: steps.diffcheck.outputs.changed == 'true'
+        env:
+          GIT_AUTHOR_NAME: Overleaf Sync Bot
+          GIT_AUTHOR_EMAIL: actions@github.com
         run: |
-          git config user.name  "Overleaf Sync Bot"
-          git config user.email "actions@github.com"
+          cd $BUILD_DIR
+          git config user.name "$GIT_AUTHOR_NAME"
+          git config user.email "$GIT_AUTHOR_EMAIL"
           git add .
           git commit -m "Overleaf Sync + XeLaTeX build [$(date -u +'%Y-%m-%dT%H:%M:%SZ')]"
-          git push
+          git push origin master || git push origin main || true
 
+      # ----------------------------
+      # 7️⃣ Delete workflow run if unchanged
+      # ----------------------------
       - name: Delete workflow run if no change
         if: steps.diffcheck.outputs.changed == 'false'
         env:
@@ -69,6 +88,7 @@ jobs:
           REPO: ${{ github.repository }}
         run: |
           if [ -n "$GH_PAT" ]; then
+            echo "No changes — cleaning up run $RUN_ID"
             curl -sSL -X DELETE \
               -H "Authorization: Bearer $GH_PAT" \
               -H "Accept: application/vnd.github+json" \
