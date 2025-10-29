@@ -1,0 +1,76 @@
+name: Overleaf Sync + XeLaTeX Build
+
+on:
+  schedule:
+    - cron: '0 * * * *'   # Hourly
+  workflow_dispatch:
+
+jobs:
+  sync_compile:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      actions: write
+    env:
+      OUTPUT_PDF: main.pdf
+      BUILD_DIR: overleaf_build
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Sync from Overleaf
+        uses: subhamx/overleaf_sync_with_git@master
+        with:
+          OVERLEAF_PROJECT_ID: ${{ secrets.OVERLEAF_PROJECT_ID }}
+          OVERLEAF_COOKIE: ${{ secrets.OVERLEAF_COOKIE }}
+
+      - name: Copy synced files
+        run: |
+          mkdir -p $BUILD_DIR
+          cp -r artifacts/* $BUILD_DIR/
+
+      - name: Compile with XeLaTeX
+        uses: xu-cheng/latex-action@v2
+        with:
+          root_file: ${{ env.BUILD_DIR }}/main.tex
+          compiler: xelatex
+
+      - name: Detect diff
+        id: diffcheck
+        run: |
+          if git diff --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Upload PDF
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: compiled-pdf
+          path: ${{ env.BUILD_DIR }}/${{ env.OUTPUT_PDF }}
+
+      - name: Commit and push if changed
+        if: steps.diffcheck.outputs.changed == 'true'
+        run: |
+          git config user.name  "Overleaf Sync Bot"
+          git config user.email "actions@github.com"
+          git add .
+          git commit -m "Overleaf Sync + XeLaTeX build [$(date -u +'%Y-%m-%dT%H:%M:%SZ')]"
+          git push
+
+      - name: Delete workflow run if no change
+        if: steps.diffcheck.outputs.changed == 'false'
+        env:
+          GH_PAT: ${{ secrets.ACTIONS_DELETE_PAT }}
+          RUN_ID: ${{ github.run_id }}
+          REPO: ${{ github.repository }}
+        run: |
+          if [ -n "$GH_PAT" ]; then
+            curl -sSL -X DELETE \
+              -H "Authorization: Bearer $GH_PAT" \
+              -H "Accept: application/vnd.github+json" \
+              "https://api.github.com/repos/$REPO/actions/runs/$RUN_ID"
+          fi
