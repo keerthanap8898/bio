@@ -125,6 +125,9 @@ I seek impactful roles to drive innovation at scale.
 > ---
 
 ```
-Copyright (C) 2025  Keerthana Purushotham <keerthanap0808@gmail.com>, <kpurusho@ucsd.edu>, <keep.consult@proton.me>.
-Licensed under the GNU GPL v2. See LICENSE for details.
+Copyright Ⓒ 2025  Keerthana Purushotham <keep.consult@proton.me>.
+All rights reserved.
+
+This repository and its contents may not be copied, modified, distributed, or used
+without explicit written permission from the author. See LICENSE for details.
 ```
