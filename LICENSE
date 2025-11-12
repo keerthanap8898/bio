@@ -1,10 +1,158 @@
+PROPRIETARY NOTICE, RESTRICTIVE LICENSE, AND DISPUTE-RESOLUTION TERMS
 Copyright ⓒ 2025  Keerthana Purushotham.
-Contact <keerthanap0808@gmail.com>, <keerthupuru@gmail.com>, or <keep.consult@proton.me>.
+Contact: keerthanap0808@gmail.com | keerthupuru@gmail.com | keep.consult@proton.me
 All rights reserved.
 
-This repository and its contents may not be copied, modified, distributed, or used
-without explicit written permission from the author.
-
     Program Name: Personal Resume helper
-    - This repository contains latex code that I intend to copyright to aid 
-      re-usability as a template.
+    - This repository contains latex code, text, images & other material that I do not intend to 
+    license, publish, or permit reuse of in any form.
+	- This non-exclusively includes artifacts such as data, code, text, images, formats, sheets, 
+    blobs, docs, PDFs, zip files, audio, links, etc.
+    - Absolutely everything in this repo is private.
+
+PROPRIETARY NOTICE, RESTRICTIVE LICENSE, AND DISPUTE-RESOLUTION TERMS
+Copyright © 2025 Keerthana Purushotham
+Contact: keerthanap0808@gmail.com | keerthupuru@gmail.com | keep.consult@proton.me
+
+RECITAL
+The Materials in this repository (the “Materials”) are proprietary, confidential,
+and the exclusive intellectual property of the Author. Access to or use of the
+Materials is permitted only as expressly authorized in writing by the Author.
+
+1. DEFINITIONS
+   “Author” means Keerthana Purushotham.
+   “You” or “Licensee” means any person or entity obtaining access to the Materials.
+   “Materials” include, without limitation, all repository contents such as source code,
+   binaries, object code, build artifacts, LaTeX sources, templates, data, images,
+   documentation, PDFs, archives, audio, links, and any other materials contained herein.
+
+2. RIGHTS RESERVED; NO LICENSE OR AUTHORIZATION
+   All rights, title, and interest in and to the Materials are retained exclusively by the Author.
+   No rights are granted to any third party by implication, estoppel, or otherwise. Unless
+   expressly set forth in a separate written license signed by the Author, no license or right
+   (express or implied) is granted to copy, reproduce, modify, create derivative works,
+   distribute, publish, display, perform, sublicense, transfer, sell, disclose, or otherwise
+   use the Materials. Access to this repository does not confer any permission to exercise
+   any intellectual property right in the Materials.
+
+3. PROHIBITED CONDUCT
+   Without the Author’s prior written consent, You may not, directly or indirectly:
+      a. copy, download, fork, mirror, redistribute, post, transmit, or otherwise make
+         available the Materials in whole or in part;
+      b. use the Materials as a template, basis, or reference for any product, service,
+         document, or work of authorship;
+      c. reverse engineer, decompile, disassemble, or attempt to derive source code
+         or reproduce build artifacts from any compiled Materials;
+      d. remove, alter, or obscure any copyright, trademark, or other proprietary
+         notices included with the Materials;
+      e. permit access to or use of the Materials by any third party without the Author’s
+         written authorization.
+
+4. AUTHORIZED USE AND ACCESS CONTROL
+   The Author may grant access or usage rights only through a signed written agreement
+   specifying the scope, term, and conditions of such access. Any purported permission
+   not explicitly granted by the Author in writing is void.
+
+5. DETECTION, PRESERVATION, AND AUDIT
+   The Author expressly reserves the right to monitor, audit, and investigate uses of the
+   Materials, preserve evidence of unauthorized use, and employ automated or manual
+   means to detect copying, redistribution, or derivative works. Authorized users must
+   retain logs and relevant records of any permitted use and produce them upon request.
+
+6. PRE-FILING NOTICE AND CURE
+   Prior to initiating any claim or action against the Author related to the Materials,
+   You must provide written notice detailing the alleged violation and allow a thirty (30)
+   day period for cure. Failure to comply with this condition may constitute grounds for
+   dismissal, sanctions, or fee recovery.
+
+7. REMEDIES AND ENFORCEMENT
+   Unauthorized use or distribution of the Materials constitutes an infringement of the
+   Author’s rights and a breach of this notice. The Author reserves all remedies at law
+   and in equity, including:
+      a. injunctive relief to prevent or restrain further unauthorized use;
+      b. monetary damages (including actual, statutory, consequential, and liquidated damages);
+      c. recovery of attorneys’ fees, investigative costs, and court expenses;
+      d. any additional relief authorized under applicable law.
+
+8. INJUNCTIVE RELIEF AND LIQUIDATED DAMAGES
+   Irreparable harm shall be presumed for unauthorized use. The Author is entitled to
+   immediate injunctive and equitable relief. If You violate Section 3, You agree that
+   liquidated damages of USD 50,000 per distinct unauthorized use or such lower amount
+   as deemed reasonable by a court shall constitute a fair estimate of probable harm,
+   recoverable in addition to any equitable or statutory remedies.
+
+9. ATTORNEYS’ FEES, COSTS, AND SECURITY FOR COSTS
+   The prevailing party in any enforcement action under this notice shall recover
+   reasonable attorneys’ fees, costs, and expenses. In any proceeding initiated by You
+   relating to the Materials, You shall provide security for the Author’s potential
+   legal costs if ordered by the court.
+
+10. CHOICE OF LAW AND EXCLUSIVE VENUE
+   This notice shall be governed by the laws of the State of [INSERT STATE, e.g., California, USA].
+   Exclusive jurisdiction and venue for any dispute shall be the state or federal courts
+   located in [INSERT COUNTY, STATE], and the parties consent to personal jurisdiction therein.
+
+11. WAIVER OF JURY TRIAL
+   To the fullest extent permitted by law, all parties waive the right to trial by jury
+   in any proceeding arising out of or relating to this notice or the Materials.
+
+12. OPTIONAL ARBITRATION
+   The parties may mutually agree in writing to resolve disputes through binding arbitration
+   administered by [arbitral body] under its applicable rules, with venue and governing law
+   as provided above.
+
+13. ATTEMPTS TO PREVENT FRIVOLOUS COUNTERCLAIMS
+   Any party asserting defenses or counterclaims against the Author must include (a)
+   specific factual and legal bases supported by documentation, and (b) an affirmation
+   that the filing is made in good faith. Failure to do so may subject the filer to
+   sanctions and fee recovery under applicable law.
+
+14. INDEMNIFICATION
+   Any party authorized to use the Materials shall indemnify, defend, and hold harmless
+   the Author from and against all claims, liabilities, losses, damages, and expenses
+   (including attorneys’ fees) arising from such use, handling, or distribution.
+
+15. EXPORT, COMPLIANCE, AND LEGAL OBLIGATIONS
+   Access to and use of the Materials is subject to all applicable export control,
+   sanctions, and compliance laws. You warrant that You will not export, re-export,
+   or transfer the Materials in violation of any such laws or regulations.
+
+16. DIGITAL MILLENNIUM COPYRIGHT ACT (DMCA)
+   If You believe any Materials have been made available in a manner that infringes
+   the Author’s rights, You must provide written notice containing all information
+   required by applicable law (including the DMCA). The Author will act promptly to
+   remove infringing content and pursue enforcement.
+
+17. DISCLAIMER; NO WARRANTIES
+   THE MATERIALS ARE PROVIDED “AS IS,” WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+   THE AUTHOR DISCLAIMS ALL WARRANTIES TO THE MAXIMUM EXTENT PERMITTED BY LAW.
+
+18. LIMITATION OF LIABILITY
+   TO THE FULLEST EXTENT PERMITTED BY LAW, THE AUTHOR SHALL NOT BE LIABLE FOR
+   ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, EXEMPLARY, OR PUNITIVE DAMAGES,
+   OR ANY LOSS OF PROFITS, DATA, OR REVENUE, ARISING OUT OF OR IN CONNECTION WITH
+   THE MATERIALS OR THIS NOTICE, WHETHER IN CONTRACT, TORT, OR OTHERWISE.
+
+19. SEVERABILITY AND NO WAIVER
+   If any provision of this notice is found invalid or unenforceable, the remaining
+   provisions shall remain in full force. No waiver by the Author of any right shall
+   be deemed a continuing waiver unless expressly stated in writing and signed.
+
+20. ACKNOWLEDGMENT OF PRIVATE AND CONFIDENTIAL NATURE
+   The Materials are intended to remain private and confidential. Any access without
+   the Author’s explicit written consent is unauthorized and may subject the violator
+   to civil and/or criminal penalties under applicable law.
+
+21. CONTACT AND NOTICES
+   All legal correspondence, DMCA notices, and requests for authorization must be sent to:
+       Keerthana Purushotham
+       Email: keerthanap0808@gmail.com | keerthupuru@gmail.com | keep.consult@proton.me
+
+22. NO GUARANTEE AGAINST COUNTERCLAIMS
+   Nothing in this document can bar a third party from filing claims or counterclaims
+   in a competent court. The Author makes no representation that all provisions will
+   be enforced in all jurisdictions.
+
+SPDX-License-Identifier: All-Rights-Reserved-Proprietary-2025
