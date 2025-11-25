@@ -18,8 +18,8 @@ I seek impactful roles to drive innovation at scale.
 #### ❶ 🗓️ Calendly: [calendly.com/keerthanap0808/30min](https://calendly.com/keerthanap0808/30min)  
 #### ❷ 📧 Email: [keep.consult@proton.me](mailto:keep.consult@proton.me)  
 #### ❸ 📱 Phone: [+1 360-328-1182](tel:+13603281182)
-#### 4  Fedora: @keepur:fedora.im (pagure.io/user/keepur)
-#### 5  Discord: 747152507184349195 ( @keepur8 )
+#### ❹ Fedora: @keepur:fedora.im - [pagure.io/user/keepur](https://pagure.io/user/keepur)
+#### ❺ Discord: 747152507184349195 ( @keepur8 )
 
 ---
 # 🔗 Links  
@@ -30,10 +30,11 @@ I seek impactful roles to drive innovation at scale.
 >    - ➀ **Google-drive**: [drive.google.com/file/d/1LtGicbL9teaShTK5oXK4NMeturMUYBJk/view](https://drive.google.com/file/d/1LtGicbL9teaShTK5oXK4NMeturMUYBJk/view)
 >    - ➁ **`W.I.P`** **[** *~alt~* **]**: [~~*in case Gmail/Google-drive isn't accessible on your employer's corporate VPN*~~](https://www.overleaf.com/read/qhckzfgxdrgs#af9564).  **`W.I.P`**
 #### ❹ **`Portfolio`**: [drive.google.com/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU/view](https://drive.google.com/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU/view)
-#### ❺ **`Master Work-History`**: [drive.google.com/file/d/1rfnKRi1yG7e-KyQfpTxthXagnjXKVkGg/view](https://drive.google.com/file/d/1rfnKRi1yG7e-KyQfpTxthXagnjXKVkGg/view)
-#### ❻ **`AI Chatbot trained on Keerthana's Profile`** ( ***Google-LM*** ):
+#### ❺ **`Public Mention`**: [forum.posit.co/t/r-language-openssl-vulnerability/186809/5#:~:text=changelog%20%20%7C%20head%20%2D2-,which%20will%20lead%20to](https://forum.posit.co/t/r-language-openssl-vulnerability/186809/5#:~:text=changelog%20%20%7C%20head%20%2D2-,which%20will%20lead%20to,-%23%20rpm%20%2Dq%20openssl)
+#### ❻ **`Master Work-History`**: [drive.google.com/file/d/1rfnKRi1yG7e-KyQfpTxthXagnjXKVkGg/view](https://drive.google.com/file/d/1rfnKRi1yG7e-KyQfpTxthXagnjXKVkGg/view)
+#### ❼ **`AI Chatbot trained on Keerthana's Profile`** ( ***Google-LM*** ):
 > #### [notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655)
-#### ❼ **`Research`**:
+#### ❽ **`Research`**:
 >    - ➀ **Google Scholar** - [scholar.google.com/citations?user=tWzF13sAAAAJ](https://scholar.google.com/citations?user=tWzF13sAAAAJ)  
 >    - ➁ **Medium** - [medium.com/@keerthanapurushotham](https://medium.com/@keerthanapurushotham)
 >    - ➂ **Substack** - [substack.com/@keerthanapurushotham](https://substack.com/@keerthanapurushotham)
@@ -43,7 +44,7 @@ I seek impactful roles to drive innovation at scale.
 >    - ➆ **ORCiD Author Profile** - [orcid.org/0009-0000-8197-7048](https://orcid.org/0009-0000-8197-7048)
 >    - ➇ **IEEE Author Profile** - [ieeexplore.ieee.org/author/37088644371](https://ieeexplore.ieee.org/author/37088644371)
 >    - ➈ **ACL Anthology Author Profile** - [aclanthology.org/people/keerthana-purushotham](https://aclanthology.org/people/keerthana-purushotham)
-#### ❽ **`Other`**:
+#### ❾ **`Other`**:
 >    - ➀ **Art Portfolio** ( *Instagram* ) - [instagram.com/kp_artses](https://instagram.com/kp_artses)
 >    - ➁ **YouTube** ( *coming soon* ) - [youtube.com/channel/UCb7duYCP_dpm4lftWeiz3ow](https://youtube.com/channel/UCb7duYCP_dpm4lftWeiz3ow)
 
