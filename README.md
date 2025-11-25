@@ -6,7 +6,8 @@ I’m a full-stack SDE with expertise in **cybersecurity, cloud, NLP & statistic
 At **AWS**, I build predictive automation tools for CVE evaluation, design scalable cloud infra, & handle threat detection for Amazon Linux.  
 My niche in **AI, NLP & stats** helps me apply computational statistics to security, threat modeling & security R&D.
 
-I’ve integrated **AWS CDK, Rust, Python & JavaScript** to streamline processes, & became an expert in threat modeling over **1.5k CVEs** for multiple Amazon Linux distributions.  
+I’ve integrated **AWS CDK, Rust, Python & JavaScript** to streamline processes, & became an expert in threat modeling over **1.5k CVEs** for multiple Amazon Linux distributions. See all Amazon Linux Packages that my team & I managed the vulnerability-lifecycles for here: [docs.aws.amazon.com/linux/al2023/release-notes](https://docs.aws.amazon.com/linux/al2023/release-notes/all-packages-AL2023.9.html).
+
 I’ve actively contributed to system design to ensure the use of relevant info for practical security solutions.
 
 With a solid foundation in **CS from UCSD**, I’ve built skill in NLP, recommender systems, cloud architectures & have published research.  
@@ -23,8 +24,9 @@ I seek impactful roles to drive innovation at scale.
 #### ❶ **`LinkedIn`**: [linkedin.com/in/keerthanapurushotham](https://linkedin.com/in/keerthanapurushotham)
 #### ❷ **`GitHub`**: [github.com/keerthanap8898](https://github.com/keerthanap8898)
 #### ❸ **`Resume`**: 
+>    - ***NOTE**: I'm not a CISO/CISSP (uncertified).*
 >    - ➀ **Google-drive**: [drive.google.com/file/d/1LtGicbL9teaShTK5oXK4NMeturMUYBJk/view](https://drive.google.com/file/d/1LtGicbL9teaShTK5oXK4NMeturMUYBJk/view)
->    - ➁ **[***alt***]**: [*in case Gmail/Google-drive isn't accessible on your employer's corporate VPN*](https://www.overleaf.com/read/qhckzfgxdrgs#af9564)
+>    - ➁ **~W.I.P~** **[** *alt* **]**: [~~*in case Gmail/Google-drive isn't accessible on your employer's corporate VPN*~~](https://www.overleaf.com/read/qhckzfgxdrgs#af9564) **~W.I.P~**
 #### ❹ **`Portfolio`**: [drive.google.com/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU/view](https://drive.google.com/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU/view)
 #### ❺ **`Master Work-History`**: [drive.google.com/file/d/1rfnKRi1yG7e-KyQfpTxthXagnjXKVkGg/view](https://drive.google.com/file/d/1rfnKRi1yG7e-KyQfpTxthXagnjXKVkGg/view)
 #### ❻ **`AI Chatbot trained on Keerthana's Profile`** ( ***Google-LM*** ):
