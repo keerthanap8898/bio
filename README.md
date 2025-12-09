@@ -21,15 +21,15 @@
 > ---
 
 # ☎️ Contact
-#### ❶ 🗓️ Calendly: [calendly.com/keerthanap0808/30min](https://calendly.com/keerthanap0808/30min)  
-#### ❷ 📧 Email: » [keep.consult@proton.me](mailto:keep.consult@proton.me) | » [keerthanap0808.at.gmail.dot.com](mailto:keerthanap0808@gmail.com)
-#### ❸ 📱 Phone: » [+1 360-328-1182](tel:+13603281182) | » [USA eight-five-eight_203_8957](tel:+18582038957)
-#### ❹ » `RedHat`: [access.redhat.com/account/57599301](https://access.redhat.com/account/57599301) | » `Pagure`: [pagure.io/user/keepur](https://pagure.io/user/keepur) | » `First.org` ( @*kpurusho* ): [portal.first.org/profile/preview/644427026](https://portal.first.org/profile/preview/644427026)
-#### ❺ *`fedora`-*`Matrix`: » @*keepur:fedora.im* | » *`fedora`-*`Wiki`: [fedoraproject.org/wiki/User:Keepur](http://fedoraproject.org/wiki/User:Keepur) | » *`fedora`-*`Account`: [accounts.fedoraproject.org/user/keepur](accounts.fedoraproject.org/user/keepur)
+##### ❶ 🗓️ `Calendly`: [calendly.com/keerthanap0808/30min](https://calendly.com/keerthanap0808/30min)  
+##### ❷ 📧 `Email`: » [keep.consult@proton.me](mailto:keep.consult@proton.me) | » [keerthanap0808.at.gmail.dot.com](mailto:keerthanap0808@gmail.com)
+##### ❸ 📱 `Phone`: » [+1 360-328-1182](tel:+13603281182) | » [USA eight-five-eight_203_8957](tel:+18582038957)
+#### ❹ » `RedHat`: [access.redhat.com/account/57599301](https://access.redhat.com/account/57599301) | » `Pagure`: [pagure.io/user/keepur](https://pagure.io/user/keepur) | » `First.org ( @`*`kpurusho`* `)`: [portal.first.org/profile/preview/644427026](https://portal.first.org/profile/preview/644427026)
+#### ❺ *`fedora`-*`Matrix`: » [@*keepur:fedora.im*](accounts.fedoraproject.org/user/keepur) | » *`fedora`-*`Wiki`: [fedoraproject.org/wiki/User:Keepur](http://fedoraproject.org/wiki/User:Keepur)
 #### ❻ » `Mastodon`: [infosec.exchange/@keepur](https://infosec.exchange/@keepur) | » `Bluesky`: [bsky.app/profile/keepur8.bsky.social](https://bsky.app/profile/keepur8.bsky.social)
 #### ❼ » `Medium`: [medium.com/@keerthanapurushotham](medium.com/@keerthanapurushotham) | » `Substack`: [substack.com/@keerthanapurushotham](substack.com/@keerthanapurushotham)
 #### ❽ » `GitLab`: [gitlab.com/keerthanap8898](https://gitlab.com/keerthanap8898) | » `GitBooks`: [app.gitbook.com/invite/i83pR6WVYC7zdK090VLF/1UsBdS2GVNQOm0dgEzJb](https://app.gitbook.com/invite/i83pR6WVYC7zdK090VLF/1UsBdS2GVNQOm0dgEzJb)
-#### ❾ » `Discord`: 747152507184349195 ( *@keepur8* ) | » `X` ( *twitter* ) [x.com/keepur8](x.com/keepur8)
+#### ❾ » `Discord`: 747152507184349195 ( *@keepur8* ) | » `X (` *`twitter`* `)`: [keepur8](x.com/keepur8)
 ---
 # 🔗 Links  
 #### ❶ **`LinkedIn`**: [linkedin.com/in/keerthanapurushotham](https://linkedin.com/in/keerthanapurushotham)
