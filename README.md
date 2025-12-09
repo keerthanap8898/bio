@@ -1,30 +1,39 @@
 # Keerthana Purushotham - Networking  
 ### ***Relevant Links related to me & my work***  
-**`Last updated as of Nov 25, 2025 - 00:47 PST`**
+**`Last updated as of Dec 09, 2025 - 03:02 PST`**
 
-I’m a full-stack SDE with expertise in **cybersecurity, cloud, NLP & statistics**.  
-At **AWS**, I build predictive automation tools for CVE evaluation, design scalable cloud infra, & handle threat detection for Amazon Linux.  
-My niche in **AI, NLP & stats** helps me apply computational statistics to security, threat modeling & security R&D.
+```
+◯ ☽ Computer Scientist ◐ Software Developer ◑ Research Engineer ❨ ☼
+```
+>
+> ✧ Keerthana works at the intersection of AI, Distributed Systems, & Correctness; exploring how large-scale intelligent systems can be made more reliable, interpretable, & aligned with design intent.
+> > - Her work integrates **research-driven inquiry with production-grade engineering**. She currently works at **AWS** in the **Threat, Security & Vulnerability Management** team for Amazon-Linux ( `AL12`, `AL1`, `AL2`, `AL2023`, etc.) in **EC2**'s **Kernels & Operating Systems** org **( `KaOS` )**
+> 
+> ✧ Keerthana has developed deep expertise in **threat modeling & remediation**, i.e, detecting new bugs & patching them; across more than **1,500 CVEs** for multiple Amazon Linux (`AL`) distributions.
+> > - These threat detections & patches regularly touched every single one of the **millions of AWS instances deployed globally** including **`EC2` servers**, **AWS hypervisors**, etc., during `AL`'s fortnightly security releases.
+> > - Also involved orchestrating automated tests spanning various linux VM instances offered by AWS averaging monthly bills in the range of **$15k - $50k** **/ *month*** for packages whose vulnerability lifecycles she's managed end-to-end; 
+> > - AThis non-exclusively includes packages like `docker`, `kernel`, `openssl`, `nss`, `python`, `java`, `mozilla`, etc., amongst those seen in the `AL2023` release notes : [***docs.aws.amazon.com/linux/al2023/release-notes**/all-packages-AL2023.9.html*](https://docs.aws.amazon.com/linux/al2023/release-notes/all-packages-AL2023.9.html), & more).
+> 
+> ✧ She is a full-stack SDE with expertise in cybersecurity, cloud, NLP, & statistics. At AWS, she has integrated `AWS CDK`, `C`, `Rust`, `Python`, `JavaScript`, `node.js`, most major `AWS tools & services`, `APIs`, `containers & shells`, `load-balanced edge-APIs & Lambdas` running ***high frequency, global, federated, throttled*** workflows orchestrating **async requests** to collect **critical threat data** as soon as they're released & accurately evaluating them without delays to streamline & reliably execute engineering workflows & builds **predictive automation tools for `CVE` evaluation**, designs **scalable cloud infrastructure**, & supports **threat detection for Amazon Linux**.
+> 
+> ✧ Keerthana's niche in `AI`, `NLP`, & `computational statistics` enables her to apply rigorous statistical methods to **security analysis**, **threat modeling**, & **security R&D**. She has also contributed significantly to **system design** efforts, ensuring that critical security information is incorporated effectively into real-world defenses. With a strong computer science foundation from **UCSD**, she has built skills across `NLP`, `recommender systems`, `cloud architectures`, & has `published research`. She is seeking impactful roles where she can drive innovation at scale.
+> 
+> ---
 
-I’ve integrated **AWS CDK, Rust, Python & JavaScript** to streamline processes, & became an expert in threat modeling over **1.5k CVEs** for multiple Amazon Linux distributions. See all Amazon Linux Packages that my team & I managed the vulnerability-lifecycles for here: [docs.aws.amazon.com/linux/al2023/release-notes](https://docs.aws.amazon.com/linux/al2023/release-notes/all-packages-AL2023.9.html).
-
-I’ve actively contributed to system design to ensure the use of relevant info for practical security solutions.
-
-With a solid foundation in **CS from UCSD**, I’ve built skill in NLP, recommender systems, cloud architectures & have published research.  
-I seek impactful roles to drive innovation at scale.
-
----
 # ☎️ Contact
 #### ❶ 🗓️ Calendly: [calendly.com/keerthanap0808/30min](https://calendly.com/keerthanap0808/30min)  
-#### ❷ 📧 Email: [keep.consult@proton.me](mailto:keep.consult@proton.me)  
-#### ❸ 📱 Phone: [+1 360-328-1182](tel:+13603281182)
-#### ❹ Fedora: @keepur:fedora.im - [pagure.io/user/keepur](https://pagure.io/user/keepur)
-#### ❺ Discord: 747152507184349195 ( @keepur8 )
-
+#### ❷ 📧 Email: » [keep.consult@proton.me](mailto:keep.consult@proton.me) | » [keerthanap0808.at.gmail.dot.com](mailto:keerthanap0808@gmail.com)
+#### ❸ 📱 Phone: » [+1 360-328-1182](tel:+13603281182) | » [USA eight-five-eight_203_8957](tel:+18582038957)
+#### ❹ » `RedHat`: [https://access.redhat.com/account/57599301](https://access.redhat.com/account/57599301) | » `Pagure`: [pagure.io/user/keepur](https://pagure.io/user/keepur) | » `First.org` ( @*kpurusho* ): [portal.first.org/profile/preview/644427026](https://portal.first.org/profile/preview/644427026)
+#### ❺ *`fedora`-*`Matrix`: » @*keepur:fedora.im* | » *`fedora`-*`Wiki`: [fedoraproject.org/wiki/User:Keepur](http://fedoraproject.org/wiki/User:Keepur) | » *`fedora`-*`Account`: [accounts.fedoraproject.org/user/keepur](accounts.fedoraproject.org/user/keepur)
+#### ❻ » `Mastodon`: [infosec.exchange/@keepur](https://infosec.exchange/@keepur) | » `Bluesky`: [bsky.app/profile/keepur8.bsky.social](https://bsky.app/profile/keepur8.bsky.social)
+#### ❼ » `Medium`: [medium.com/@keerthanapurushotham](medium.com/@keerthanapurushotham) | » `Substack`: [substack.com/@keerthanapurushotham](substack.com/@keerthanapurushotham)
+#### ❽ » `GitLab`: [https://gitlab.com/keerthanap8898](https://gitlab.com/keerthanap8898) | » `GitBooks`: [app.gitbook.com/invite/i83pR6WVYC7zdK090VLF/1UsBdS2GVNQOm0dgEzJb](https://app.gitbook.com/invite/i83pR6WVYC7zdK090VLF/1UsBdS2GVNQOm0dgEzJb)
+#### ❾ » `Discord`: 747152507184349195 ( *@keepur8* ) | » `X` ( *twitter* ) [x.com/keepur8](x.com/keepur8)
 ---
 # 🔗 Links  
 #### ❶ **`LinkedIn`**: [linkedin.com/in/keerthanapurushotham](https://linkedin.com/in/keerthanapurushotham)
-#### ❷ **`GitHub`**: [github.com/keerthanap8898](https://github.com/keerthanap8898)
+#### ❷ **`GitHub`**: [keerthanap8898.github.io/keerthanap8898](https://keerthanap8898.github.io/keerthanap8898) | [github.com/keerthanap8898](https://github.com/keerthanap8898) | [github.com/keerthanap8898?tab=repositories](https://github.com/keerthanap8898?tab=repositories)
 #### ❸ **`Resume`**: 
 >    - ***NOTE**: I'm not a CISO/CISSP (uncertified).*
 >    - ➀ **Google-drive**: [drive.google.com/file/d/1LtGicbL9teaShTK5oXK4NMeturMUYBJk/view](https://drive.google.com/file/d/1LtGicbL9teaShTK5oXK4NMeturMUYBJk/view)
@@ -50,49 +59,81 @@ I seek impactful roles to drive innovation at scale.
 
 ---
 # 🛠️ Projects  
-#### ❶ `Text To Video App`
-   > ***Async API using the Genmo Mochi-1 model hosted on 8×H100 GPU Kubernetes work nodes.***
+### ⓿ `New WIP` —
+> - ### **🅰** **`Cve Toad`** : 
+>      - #### `☆` **\[** *Security* | *OSS* **]**
+> ***I propose a secure, ephemeral “CVE‐Checker Shell” — a command‐line tool that launches a temporary containerised runtime to perform AI-assisted CVE impact analysis.***
+> 
+> ***The shell initialises with short-lived authentication tokens (≤ 8 hours) and dynamically installs approved AI model clients (e.g., OpenAI, Anthropic) inside the container. Once execution completes, the container and all secrets are destroyed, leaving no footprint on the host.***
+> >   - ➀ [*github.com/keerthanap8898/CveToad*](https://github.com/keerthanap8898/CveToad)
+> >   - ➁ [*github.com/keerthanap8898/CveToad/blob/main/CVE-user-story_Description.md*](https://github.com/keerthanap8898/CveToad/blob/main/CVE-user-story_Description.md)
+> > ---
+>
+> - ### **🅱** **`Understanding-Testing-Frameworks`** : 
+>      - #### `☆` **\[** *SDLC* | *Book* **]**
+> ***A comprehensive, formal, & practical framework for software testing across the entire SDLC, from code to continuous verification.***
+> 
+> #### ***`Key ideas`***:
+> 1. ***┈ Every SDLC stage corresponds to a different NP-hard decision problem***.
+> 2. ***┈ Tests are complexity-reduction mechanisms***.
+> 3. ***┈ Determinism is engineered; not assumed***.
+> 
+> ***This project is early, but the core structure is there.***
+> >   - **➀** [*github.com/keerthanap8898/Understanding-Testing-Frameworks*](https://github.com/keerthanap8898/Understanding-Testing-Frameworks#see-book---breachtracegitbookiounderstanding-testing-frameworks--wip-)
+> >   - **➁** [*linkedin.com/feed/update/urn:li:activity:7402152817488281600*](https://lnkd.in/g-cxFaxn)
+> > ---
+
+### ❶ `Text To Video App` —
+> #### `☆` ***Async API using the Genmo Mochi-1 model hosted on 8×H100 GPU Kubernetes work nodes.***
    >   - ➀ LinkedIn - [linkedin.com/feed/update/urn:li:ugcPost:7373897755317960704](https://www.linkedin.com/feed/update/urn:li:ugcPost:7373897755317960704)
    >   - ➁ GitHub ( *w.i.p* )- [github.com/keerthanap8898/TextToVideoAPI](https://github.com/keerthanap8898/TextToVideoAPI)
    >   - ➂ View Demo Website at - [keerthanap8898.github.io/TextToVideoAPI](https://keerthanap8898.github.io/TextToVideoAPI)
+   > ---
 
-#### ❷ `Accuracy Is Not Enough` — Confusion Matrix Metrics That Actually Work in CVE Impact Prediction
+### ❷ `Accuracy Is Not Enough` — 
+> #### `☆` ***Confusion Matrix Metrics That Actually Work in CVE Impact Prediction***
    > ***An applied research summary introducing advanced confusion-matrix metrics that outperform accuracy in predicting CVE exploitability impact.***
    >   - ➀ LinkedIn - [linkedin.com/posts/keerthanapurushotham_vulnerabilitymanagement-cve-security-activity-7374937046538436608-quKj](https://www.linkedin.com/posts/keerthanapurushotham_vulnerabilitymanagement-cve-security-activity-7374937046538436608-quKj)
    >   - ➁ Substack - [keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion](https://keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion)
    >   - ➂ Medium - [medium.com/@keerthanapurushotham/accuracy-is-not-enough-confusion-matrix-metrics-that-actually-work-in-cve-impact-prediction-d4bafd9cec1b](https://medium.com/@keerthanapurushotham/accuracy-is-not-enough-confusion-matrix-metrics-that-actually-work-in-cve-impact-prediction-d4bafd9cec1b)
    >   - ➃ Github - [github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/blob/main/README.md)
    >   - ➄ Zenodo - [zenodo.org/records/17438182](https://zenodo.org/records/17438182) 
+   > ---
 
-#### ❸ `Cloud Storage Security Risks, Practices & Measures: A Review` | 40 cites — Jan 1 2020
-   > ***Comprehensive review of security threats, mitigation practices, and compliance measures in enterprise cloud storage systems.***
+### ❸ `Cloud Storage Security Risks, Practices & Measures: A Review` | 40 cites — Jan 1 2020
+> #### `☆` ***Comprehensive review of security threats, mitigation practices, and compliance measures in enterprise cloud storage systems.***
    >   - ➀ IEEE Xplore - [ieeexplore.ieee.org/abstract/document/9298281](https://ieeexplore.ieee.org/abstract/document/9298281)
+   > ---
 
 #### ❹ `Image Denoising using Auto-encoders & Spatial Filters for Gaussian Noise` | 7 cites — Mar 15 2021
-   > ***Proposes a hybrid auto-encoder + spatial filter framework to denoise medical images affected by Gaussian noise.***
+> #### `☆` ***Proposes a hybrid auto-encoder + spatial filter framework to denoise medical images affected by Gaussian noise.***
    >   - ➀ IEEE Xplore - [ieeexplore.ieee.org/abstract/document/9377166](https://ieeexplore.ieee.org/abstract/document/9377166)
    >   - ➁ GitHub - [github.com/keerthanap8898/Detecting-pneumonias-from-chest-X-rays-using-different-CNN-architectures](https://github.com/keerthanap8898/Detecting-pneumonias-from-chest-X-rays-using-different-CNN-architectures)
+   > ---
 
-#### ❺ `Context-Based Filtering of Conversational Data` | 2 cites — May 22 2021
-   > ***Introduces a context-aware comment filtering system for NLP pipelines using semantic relevance modeling.***
+### ❺ `Context-Based Filtering of Conversational Data` | 2 cites — May 22 2021
+> #### `☆` ***Introduces a context-aware comment filtering system for NLP pipelines using semantic relevance modeling.***
    >   - ➀ ACL Anthology - [aclanthology.org/2020.icon-workshop.5](https://aclanthology.org/2020.icon-workshop.5/)
    >   - ➁ GitHub - [github.com/keerthanap8898/context-based-comment-filtering](https://github.com/keerthanap8898/context-based-comment-filtering)
+   > ---
 
-#### ❻ 🧩 `Mini Projects` | [linkedin.com/in/keerthanapurushotham/details/projects](https://www.linkedin.com/in/keerthanapurushotham/details/projects/)
-   > ┈**ⓐ** **Build a Neural CRF for Constituency Parsing** : **\[** *Advanced-Statistical-NLP* **| CSE291]**
+### ❻ 🧩 `Mini Projects` | [linkedin.com/in/keerthanapurushotham/details/projects](https://www.linkedin.com/in/keerthanapurushotham/details/projects/)
+   > **ⓐ**. **Build a Neural CRF for Constituency Parsing** : **\[** *Advanced-Statistical-NLP* **| CSE291]**
    > >  *Implemented a neural CRF parser using the CKY algorithm on the Penn Treebank (PTB) dataset. Computed the partition function within the NLL loss via the inside algorithm and trained models on Google Colab GPU for optimal performance.*
-   > >    - ┈ [*github.com/keerthanap8898/NeuralCRFs_for_ConstituencyParsing*](https://github.com/keerthanap8898/NeuralCRFs_for_ConstituencyParsing)
-   > 
-   > ┈**ⓑ** **Build a Neural CRF NER Tagger - How to build a baby BERT** : **\[** *Advanced-Statistical-NLP* **| CSE291]**
+   > >    - `☆` [*github.com/keerthanap8898/NeuralCRFs_for_ConstituencyParsing*](https://github.com/keerthanap8898/NeuralCRFs_for_ConstituencyParsing)
+   > > ---
+   > **ⓑ**. **Build a Neural CRF NER Tagger** ***- How to build a baby BERT*** : **\[** *Advanced-Statistical-NLP* **| CSE291]**
    > > *Developed BiLSTM + CRF architectures for Named Entity Recognition (NER), compared to a baseline BiLSTM tagger. Implemented and benchmarked both on GPU-enabled Colab environments.*
-   > >   - ┈ [*github.com/keerthanap8898/Neural-CRF_NER-Tagger/*](https://github.com/keerthanap8898/Neural-CRF_NER-Tagger/)
-   > 
-   > ┈**ⓒ** **System Measurement - Ubuntu** : **\[** *Operating-Systems* **| CSE221]**
-   > >  *Performed experiments to measure OS-level components including CPU scheduling, memory allocation, networking, and filesystem latency on Ubuntu systems; analyzed bottlenecks in system services.*  
-   > 
-   > ┈**ⓓ** **Automation of Irrigation Systems** : **\[** *IoT-using-Arduino* **| undergrad]**
-   > >  *IoT-based Arduino project with moisture sensors and pumps to maintain optimal soil moisture by plant species. Awarded 2nd place in freshman Robotics & Engineering competition at MSRIT.*  
-
+   > >    - `☆` [*github.com/keerthanap8898/Neural-CRF_NER-Tagger/*](https://github.com/keerthanap8898/Neural-CRF_NER-Tagger/)
+   > > ---
+   > **ⓒ**. **System Measurement** ***- Ubuntu*** : **\[** *Operating-Systems* **| CSE221]**
+   > >  *Performed experiments to measure OS-level components including CPU scheduling, memory allocation, networking, and filesystem latency on Ubuntu systems; analyzed bottlenecks in system services.*
+   > > 
+   > > ---
+   > **ⓓ**. **Automation of Irrigation Systems** ***- using either Arduino &/or RaspberryPi***: **\[** *IoT-using-Arduino* **| undergrad]**
+   > >  *IoT-based Arduino project using either Arduino &/or RaspberryPi with moisture sensors & pumps to maintain optimal soil moisture by plant species. Awarded 2nd place in freshman Robotics & Engineering competition at MSRIT.*  
+   > >
+   > > ---
 ---
 # 🎨 Images
 ### ❶ `Skills Mindmap`
