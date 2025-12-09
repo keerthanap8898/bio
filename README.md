@@ -12,7 +12,7 @@
 > ✧ Keerthana has developed deep expertise in **threat modeling & remediation**, i.e, detecting new bugs & patching them; across more than **1,500 CVEs** for multiple Amazon Linux (`AL`) distributions.
 > > - These threat detections & patches regularly touched every single one of the **millions of AWS instances deployed globally** including **`EC2` servers**, **AWS hypervisors**, etc., during `AL`'s fortnightly security releases.
 > > - Also involved orchestrating automated tests spanning various linux VM instances offered by AWS averaging monthly bills in the range of **$15k - $50k** **/ *month*** for packages whose vulnerability lifecycles she's managed end-to-end; 
-> > - AThis non-exclusively includes packages like `docker`, `kernel`, `openssl`, `nss`, `python`, `java`, `mozilla`, etc., amongst those seen in the `AL2023` release notes : [***docs.aws.amazon.com/linux/al2023/release-notes**/all-packages-AL2023.9.html*](https://docs.aws.amazon.com/linux/al2023/release-notes/all-packages-AL2023.9.html), & more).
+> > - This non-exclusively includes packages like `docker`, `kernel`, `openssl`, `nss`, `python`, `java`, `mozilla`, etc., amongst those seen in the `AL2023` release notes : [***docs.aws.amazon.com/linux/al2023/release-notes**/all-packages-AL2023.9.html*](https://docs.aws.amazon.com/linux/al2023/release-notes/all-packages-AL2023.9.html), & more).
 > 
 > ✧ She is a full-stack SDE with expertise in cybersecurity, cloud, NLP, & statistics. At AWS, she has integrated `AWS CDK`, `C`, `Rust`, `Python`, `JavaScript`, `node.js`, most major `AWS tools & services`, `APIs`, `containers & shells`, `load-balanced edge-APIs & Lambdas` running ***high frequency, global, federated, throttled*** workflows orchestrating **async requests** to collect **critical threat data** as soon as they're released & accurately evaluating them without delays to streamline & reliably execute engineering workflows & builds **predictive automation tools for `CVE` evaluation**, designs **scalable cloud infrastructure**, & supports **threat detection for Amazon Linux**.
 > 
@@ -24,11 +24,11 @@
 #### ❶ 🗓️ Calendly: [calendly.com/keerthanap0808/30min](https://calendly.com/keerthanap0808/30min)  
 #### ❷ 📧 Email: » [keep.consult@proton.me](mailto:keep.consult@proton.me) | » [keerthanap0808.at.gmail.dot.com](mailto:keerthanap0808@gmail.com)
 #### ❸ 📱 Phone: » [+1 360-328-1182](tel:+13603281182) | » [USA eight-five-eight_203_8957](tel:+18582038957)
-#### ❹ » `RedHat`: [https://access.redhat.com/account/57599301](https://access.redhat.com/account/57599301) | » `Pagure`: [pagure.io/user/keepur](https://pagure.io/user/keepur) | » `First.org` ( @*kpurusho* ): [portal.first.org/profile/preview/644427026](https://portal.first.org/profile/preview/644427026)
+#### ❹ » `RedHat`: [access.redhat.com/account/57599301](https://access.redhat.com/account/57599301) | » `Pagure`: [pagure.io/user/keepur](https://pagure.io/user/keepur) | » `First.org` ( @*kpurusho* ): [portal.first.org/profile/preview/644427026](https://portal.first.org/profile/preview/644427026)
 #### ❺ *`fedora`-*`Matrix`: » @*keepur:fedora.im* | » *`fedora`-*`Wiki`: [fedoraproject.org/wiki/User:Keepur](http://fedoraproject.org/wiki/User:Keepur) | » *`fedora`-*`Account`: [accounts.fedoraproject.org/user/keepur](accounts.fedoraproject.org/user/keepur)
 #### ❻ » `Mastodon`: [infosec.exchange/@keepur](https://infosec.exchange/@keepur) | » `Bluesky`: [bsky.app/profile/keepur8.bsky.social](https://bsky.app/profile/keepur8.bsky.social)
 #### ❼ » `Medium`: [medium.com/@keerthanapurushotham](medium.com/@keerthanapurushotham) | » `Substack`: [substack.com/@keerthanapurushotham](substack.com/@keerthanapurushotham)
-#### ❽ » `GitLab`: [https://gitlab.com/keerthanap8898](https://gitlab.com/keerthanap8898) | » `GitBooks`: [app.gitbook.com/invite/i83pR6WVYC7zdK090VLF/1UsBdS2GVNQOm0dgEzJb](https://app.gitbook.com/invite/i83pR6WVYC7zdK090VLF/1UsBdS2GVNQOm0dgEzJb)
+#### ❽ » `GitLab`: [gitlab.com/keerthanap8898](https://gitlab.com/keerthanap8898) | » `GitBooks`: [app.gitbook.com/invite/i83pR6WVYC7zdK090VLF/1UsBdS2GVNQOm0dgEzJb](https://app.gitbook.com/invite/i83pR6WVYC7zdK090VLF/1UsBdS2GVNQOm0dgEzJb)
 #### ❾ » `Discord`: 747152507184349195 ( *@keepur8* ) | » `X` ( *twitter* ) [x.com/keepur8](x.com/keepur8)
 ---
 # 🔗 Links  
