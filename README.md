@@ -18,7 +18,7 @@ I seek impactful roles to drive innovation at scale.
 #### ❶ 🗓️ Calendly: [calendly.com/keerthanap0808/30min](https://calendly.com/keerthanap0808/30min)  
 #### ❷ 📧 Email: [keep.consult@proton.me](mailto:keep.consult@proton.me)  
 #### ❸ 📱 Phone: [+1 360-328-1182](tel:+13603281182)
-#### ❹ Fedora: @keepur:fedora.im - [accounts.fedoraproject.org/user/keepur](https://accounts.fedoraproject.org/user/keepur) | [pagure.io/user/keepur](https://pagure.io/user/keepur)
+#### ❹ Fedora: @keepur:fedora.im - [pagure.io/user/keepur](https://pagure.io/user/keepur)
 #### ❺ Discord: 747152507184349195 ( @keepur8 )
 
 ---
@@ -50,27 +50,6 @@ I seek impactful roles to drive innovation at scale.
 
 ---
 # 🛠️ Projects  
-#### ⓿ New WIP:
-- #### **🅰** **`Cve Toad`** : **\[** *Vulnerability Management* **| OSS]**
-   > ***I propose a secure, ephemeral “CVE‐Checker Shell” — a command‐line tool that launches a temporary containerised runtime to perform AI-assisted CVE impact analysis.***
-   > 
-   > ***The shell initialises with short-lived authentication tokens (≤ 8 hours) and dynamically installs approved AI model clients (e.g., OpenAI, Anthropic) inside the container. Once execution completes, the container and all secrets are destroyed, leaving no footprint on the host.***
-   > >   - ➀ [*github.com/keerthanap8898/CveToad*](https://github.com/keerthanap8898/CveToad)
-   > >   - ➁ [*github.com/keerthanap8898/CveToad/blob/main/CVE-user-story_Description.md*](https://github.com/keerthanap8898/CveToad/blob/main/CVE-user-story_Description.md)
-   > 
-- #### **🅱** **`Understanding-Testing-Frameworks`** : **\[** *SDLC* **| Book]**
-   > ***A comprehensive, formal, & practical framework for software testing across the entire SDLC, from code to continuous verification.***
-   > 
-   >  #### ***`Key ideas`***:
-   > 
-   > ┈‣ ⓐ *Every SDLC stage corresponds to a different NP-hard decision problem*.
-   > ┈‣ ⓑ *Tests are complexity-reduction mechanisms*.
-   > ┈‣ ⓒ *Determinism is engineered; not assumed*.
-   > 
-   > ***This project is early, but the core structure is there.***
-   > >   - **➀** [*github.com/keerthanap8898/Understanding-Testing-Frameworks*](https://github.com/keerthanap8898/Understanding-Testing-Frameworks#see-book---breachtracegitbookiounderstanding-testing-frameworks--wip-)
-   > >   - **➁** [*linkedin.com/feed/update/urn:li:activity:7402152817488281600*](lnkd.in/g-cxFaxn)
-   > 
 #### ❶ `Text To Video App`
    > ***Async API using the Genmo Mochi-1 model hosted on 8×H100 GPU Kubernetes work nodes.***
    >   - ➀ LinkedIn - [linkedin.com/feed/update/urn:li:ugcPost:7373897755317960704](https://www.linkedin.com/feed/update/urn:li:ugcPost:7373897755317960704)
@@ -100,18 +79,18 @@ I seek impactful roles to drive innovation at scale.
    >   - ➁ GitHub - [github.com/keerthanap8898/context-based-comment-filtering](https://github.com/keerthanap8898/context-based-comment-filtering)
 
 #### ❻ 🧩 `Mini Projects` | [linkedin.com/in/keerthanapurushotham/details/projects](https://www.linkedin.com/in/keerthanapurushotham/details/projects/)
-   > ┈‣ **ⓐ** **Build a Neural CRF for Constituency Parsing** : **\[** *Advanced-Statistical-NLP* **| CSE291]**
+   > ┈**ⓐ** **Build a Neural CRF for Constituency Parsing** : **\[** *Advanced-Statistical-NLP* **| CSE291]**
    > >  *Implemented a neural CRF parser using the CKY algorithm on the Penn Treebank (PTB) dataset. Computed the partition function within the NLL loss via the inside algorithm and trained models on Google Colab GPU for optimal performance.*
    > >    - ┈ [*github.com/keerthanap8898/NeuralCRFs_for_ConstituencyParsing*](https://github.com/keerthanap8898/NeuralCRFs_for_ConstituencyParsing)
    > 
-   > ┈‣ **ⓑ** **Build a Neural CRF NER Tagger - How to build a baby BERT** : **\[** *Advanced-Statistical-NLP* **| CSE291]**
+   > ┈**ⓑ** **Build a Neural CRF NER Tagger - How to build a baby BERT** : **\[** *Advanced-Statistical-NLP* **| CSE291]**
    > > *Developed BiLSTM + CRF architectures for Named Entity Recognition (NER), compared to a baseline BiLSTM tagger. Implemented and benchmarked both on GPU-enabled Colab environments.*
    > >   - ┈ [*github.com/keerthanap8898/Neural-CRF_NER-Tagger/*](https://github.com/keerthanap8898/Neural-CRF_NER-Tagger/)
    > 
-   > ┈‣ **ⓒ** **System Measurement - Ubuntu** : **\[** *Operating-Systems* **| CSE221]**
+   > ┈**ⓒ** **System Measurement - Ubuntu** : **\[** *Operating-Systems* **| CSE221]**
    > >  *Performed experiments to measure OS-level components including CPU scheduling, memory allocation, networking, and filesystem latency on Ubuntu systems; analyzed bottlenecks in system services.*  
    > 
-   > ┈‣ **ⓓ** **Automation of Irrigation Systems** : **\[** *IoT-using-Arduino* **| undergrad]**
+   > ┈**ⓓ** **Automation of Irrigation Systems** : **\[** *IoT-using-Arduino* **| undergrad]**
    > >  *IoT-based Arduino project with moisture sensors and pumps to maintain optimal soil moisture by plant species. Awarded 2nd place in freshman Robotics & Engineering competition at MSRIT.*  
 
 ---
