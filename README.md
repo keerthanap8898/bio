@@ -10,7 +10,7 @@
 >
 > ✧ As a Software developer at **Amazon Linux (** *`AL`* **)**, she, along with the rest of her team drive **`CVE`(** *Common Vulnerabilities & exposures* **) Management**; i.e., the vulnerability life-cycle across all `AWS` OS instances, shells, VMs, Hypervisors, EC2 servers (& containers), etc.; spanning distros non-exclusively including including- `AL12`, `AL1`, `AL2`, `AL2023`, bare metal instances etc., amongst others.
 >
-> > -  She works at the intersection of AI, Distributed Systems, & Correctness; exploring how large-scale intelligent systems can be made more reliable, interpretable, & aligned with design intent.
+> > - She works at the intersection of AI, Distributed Systems, & Correctness; exploring how large-scale intelligent systems can be made more reliable, interpretable, & aligned with design intent.
 > > - Her work integrates **research-driven inquiry with production-grade engineering**. 
 > 
 > ✧ Keerthana has developed deep expertise in **threat modeling & remediation**, i.e, detecting new bugs i.e., `CVE`(*s*) & patching them; across more than **1,500 CVEs** for multiple Amazon Linux (`AL`) distributions.
