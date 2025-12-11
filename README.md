@@ -1,22 +1,30 @@
 # Keerthana Purushotham - Networking  
 ### ***Relevant Links related to me & my work***  
-**`Last updated as of Dec 09, 2025 - 03:02 PST`**
+**`Last updated as of Dec 10, 2025 - 21:43 PST`**
 
 ```
 ◯ ☽ Computer Scientist ◐ Software Developer ◑ Research Engineer ❨ ☼
 ```
 >
-> ✧ Keerthana works at the intersection of AI, Distributed Systems, & Correctness; exploring how large-scale intelligent systems can be made more reliable, interpretable, & aligned with design intent.
-> > - Her work integrates **research-driven inquiry with production-grade engineering**. She currently works at **AWS** in the **Threat, Security & Vulnerability Management** team for Amazon-Linux ( `AL12`, `AL1`, `AL2`, `AL2023`, etc.) in **EC2**'s **Kernels & Operating Systems** org **( `KaOS` )**
+> ✧ Keerthana currently works at **AWS** in the **Threat, Security & Vulnerability Management** team for Amazon-Linux ( `AL12`, `AL1`, `AL2`, `AL2023`, etc.) in **EC2**'s **Kernels & Operating Systems** org **( `KaOS` )**.
+> > -  She works at the intersection of AI, Distributed Systems, & Correctness; exploring how large-scale intelligent systems can be made more reliable, interpretable, & aligned with design intent.
+> > - Her work integrates **research-driven inquiry with production-grade engineering**. 
 > 
 > ✧ Keerthana has developed deep expertise in **threat modeling & remediation**, i.e, detecting new bugs & patching them; across more than **1,500 CVEs** for multiple Amazon Linux (`AL`) distributions.
 > > - These threat detections & patches regularly touched every single one of the **millions of AWS instances deployed globally** including **`EC2` servers**, **AWS hypervisors**, etc., during `AL`'s fortnightly security releases.
 > > - Also involved orchestrating automated tests spanning various linux VM instances offered by AWS averaging monthly bills in the range of **$15k - $50k** **/ *month*** for packages whose vulnerability lifecycles she's managed end-to-end; 
 > > - This non-exclusively includes packages like `docker`, `kernel`, `openssl`, `nss`, `python`, `java`, `mozilla`, etc., amongst those seen in the `AL2023` release notes : [***docs.aws.amazon.com/linux/al2023/release-notes**/all-packages-AL2023.9.html*](https://docs.aws.amazon.com/linux/al2023/release-notes/all-packages-AL2023.9.html), & more).
 > 
-> ✧ She is a full-stack SDE with expertise in cybersecurity, cloud, NLP, & statistics. At AWS, she has integrated `AWS CDK`, `C`, `Rust`, `Python`, `JavaScript`, `node.js`, most major `AWS tools & services`, `APIs`, `containers & shells`, `load-balanced edge-APIs & Lambdas` running ***high frequency, global, federated, throttled*** workflows orchestrating **async requests** to collect **critical threat data** as soon as they're released, whilst accurately evaluating them without delays to streamline, plus reliably execute engineering workflows. A large burder of her work involves building **predictive automation tools for `CVE` evaluation**, designs **scalable cloud infrastructure**, & supporting **threat detection & mgmt for Amazon Linux**.
+> ✧ She is a full-stack SDE with expertise in cybersecurity, cloud, NLP, & statistics.
+> > - At AWS, she has integrated `AWS CDK`, `C`, `Rust`, `Python`, `JavaScript`, `node.js`, most major `AWS tools & services`, `APIs`, `containers & shells`, `load-balanced edge-APIs & Lambdas`, running ***high frequency, global, federated, throttled*** workflows orchestrating **async requests**, to collect **critical threat data** as soon as they're released; to streamline, plus reliably execute engineering workflows.
+> > - She's also tasked with accurately evaluating thse bugs, finding &/or designing their corresponding patches from scratch if  unavailable- to design, plan and prove remediation plan, without delays.
+> > - A large part of her work also involves building **predictive automation tools for `CVE` evaluation**, designs **scalable cloud infrastructure**, & supporting **threat detection & mgmt for Amazon Linux**.
 > 
-> ✧ Keerthana's niche in `AI`, `NLP`, & `computational statistics` enables her to apply rigorous statistical methods to **security analysis**, **threat modeling**, & **security R&D**. She has also contributed significantly to **system design** efforts, ensuring that critical security information is incorporated effectively into real-world defenses. With a strong computer science foundation from **UCSD**, she has built skills across `NLP`, `recommender systems`, `cloud architectures`, & has `published research`. She is seeking impactful roles where she can drive innovation at scale.
+> ✧ Keerthana's strong computer science foundation from **UCSD**, she has built skills across `NLP`, `recommender systems`, `cloud architectures`, & has `published research`.
+> > - She has contributed significantly to **system design** efforts, ensuring that critical security information is incorporated effectively into real-world defenses. With a strong computer science foundation from **UCSD**, she has built skills across `NLP`, `recommender systems`, `cloud architectures`, & has `published research`.
+> > - Her niche in `AI`, `NLP`, & `computational statistics` enables her to apply rigorous statistical methods to **security analysis**, **threat modeling**, & **security R&D**.
+> 
+> ***`She is seeking impactful roles where she can drive innovation at scale.`***
 > 
 > ---
 
