@@ -29,7 +29,7 @@
 > > - She has contributed significantly to **system design** efforts, ensuring that critical security information is incorporated effectively into real-world defenses.
 > > - Her niche in `AI`, `NLP`, & `computational statistics` enables her to apply rigorous statistical methods to **security analysis**, **threat modeling**, & **security R&D**.
 > >   
-> ##### ✧ Between 2021 & 2025, she's successfully `published  multiple research articles` that have accumulated about **`50 citations`** as of 2025, in conferences & journals like **`IEEE`**, **`ACL`**, **`OpenAire`**, etc.
+> ##### ✧ Between 2021 & 2025, she's successfully `published multiple research articles` that have accumulated about **`50 citations`** as of 2025, in conferences & journals like **`IEEE`**, **`ACL`**, **`OpenAire`**, etc.
 > > ---
 > >
 > > #### ❄️🏂🏻  **`She seeks impactful roles where she can drive innovation at scale`. 🤶🏻⛄**
