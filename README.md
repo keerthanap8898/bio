@@ -22,16 +22,19 @@
 > 
 > ✧ She is a full-stack SDE with expertise in cybersecurity, cloud, NLP, & statistics.
 > > - At AWS, she has integrated `AWS CDK`, `C`, `Rust`, `Python`, `JavaScript`, `node.js`, most major `AWS tools & services`, `APIs`, `containers & shells`, `load-balanced edge-APIs & Lambdas`, running ***high frequency, global, federated, throttled*** workflows orchestrating **async requests**, to collect **critical threat data** as soon as they're released; to streamline, plus reliably execute engineering workflows.
-> > - She's also tasked with accurately evaluating thse bugs, finding &/or designing their corresponding patches from scratch if  unavailable- to design, plan and prove remediation plan, without delays.
+> > - She's also tasked with accurately evaluating thse bugs, finding &/or designing their corresponding patches from scratch if  unavailable- to design, plan & prove remediation plan, without delays.
 > > - A large part of her work also involves building **predictive automation tools for `CVE` evaluation**, designs **scalable cloud infrastructure**, & supporting **threat detection & mgmt for Amazon Linux**.
 > 
-> ✧ Keerthana's strong computer science foundation from **UCSD**, she has built skills across `NLP`, `recommender systems`, `cloud architectures`, & has `published research`.
+> ✧ Keerthana's strong computer science foundation from **UCSD**, enabled her to build deep expertise & skills across `NLP`, `recommender systems`, `Algorithms & Complexity Theory`, `Statistics`, `cloud architectures`, etc.
 > > - She has contributed significantly to **system design** efforts, ensuring that critical security information is incorporated effectively into real-world defenses. With a strong computer science foundation from **UCSD**, she has built skills across `NLP`, `recommender systems`, `cloud architectures`, & has `published research`.
 > > - Her niche in `AI`, `NLP`, & `computational statistics` enables her to apply rigorous statistical methods to **security analysis**, **threat modeling**, & **security R&D**.
-> 
-> ***`She is seeking impactful roles where she can drive innovation at scale.`***
-> 
-> ---
+> >   
+> ##### ✧ Between 2021 & 2025, she's successfully `published  multiple research articles` that have accumulated about **`50 citations`** as of 2025, in conferences & journals like **`IEEE`**, **`ACL`**, **`OpenAire`**, etc.
+> > ---
+> >
+> > #### ❄️🏂🏻  **`She seeks impactful roles where she can drive innovation at scale`. 🤶🏻⛄**
+> >
+> > ---
 
 # ☎️ Contact
 ##### ➀ 🗓️ `Calendly`: [calendly.com/keerthanap0808/30min](https://calendly.com/keerthanap0808/30min)  
