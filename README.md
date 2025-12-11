@@ -29,15 +29,21 @@
 > ---
 
 # ☎️ Contact
-##### ❶ 🗓️ `Calendly`: [calendly.com/keerthanap0808/30min](https://calendly.com/keerthanap0808/30min)  
-##### ❷ 📧 `Email`: » [keep.consult@proton.me](mailto:keep.consult@proton.me) | » [keerthanap0808.at.gmail.dot.com](mailto:keerthanap0808@gmail.com)
-##### ❸ 📱 `Phone`: » [+1 360-328-1182](tel:+13603281182) | » [USA eight-five-eight_203_8957](tel:+18582038957)
-#### ❹ » `RedHat`: [access.redhat.com/account/57599301](https://access.redhat.com/account/57599301) | » `Pagure`: [pagure.io/user/keepur](https://pagure.io/user/keepur) | » `First.org ( @`*`kpurusho`* `)`: [portal.first.org/profile/preview/644427026](https://portal.first.org/profile/preview/644427026)
-#### ❺ *`fedora`-*`Matrix`: » [@*keepur:fedora.im*](accounts.fedoraproject.org/user/keepur) | » *`fedora`-*`Wiki`: [fedoraproject.org/wiki/User:Keepur](http://fedoraproject.org/wiki/User:Keepur)
-#### ❻ » `Mastodon`: [infosec.exchange/@keepur](https://infosec.exchange/@keepur) | » `Bluesky`: [bsky.app/profile/keepur8.bsky.social](https://bsky.app/profile/keepur8.bsky.social)
-#### ❼ » `Medium`: [medium.com/@keerthanapurushotham](medium.com/@keerthanapurushotham) | » `Substack`: [substack.com/@keerthanapurushotham](substack.com/@keerthanapurushotham)
-#### ❽ » `GitLab`: [gitlab.com/keerthanap8898](https://gitlab.com/keerthanap8898) | » `GitBooks`: [app.gitbook.com/invite/i83pR6WVYC7zdK090VLF/1UsBdS2GVNQOm0dgEzJb](https://app.gitbook.com/invite/i83pR6WVYC7zdK090VLF/1UsBdS2GVNQOm0dgEzJb)
-#### ❾ » `Discord`: 747152507184349195 ( *@keepur8* ) | » `X (` *`twitter`* `)`: [keepur8](x.com/keepur8)
+##### ➀ 🗓️ `Calendly`: [calendly.com/keerthanap0808/30min](https://calendly.com/keerthanap0808/30min)  
+##### ➁ 📧 `Email`: » [keep.consult@proton.me](mailto:keep.consult@proton.me) | » [keerthanap0808.at.gmail.dot.com](mailto:keerthanap0808@gmail.com)
+##### ➂ 📱 `Phone`: » [+1 360-328-1182](tel:+13603281182) | » [USA eight-five-eight_203_8957](tel:+18582038957)
+> | **Sl.#** | **Category** | **Links** |
+> |------|----------|-----------------------------|
+> | ❶. | **`Matrix` (** *fedora* **)** / **`Pagure`**  | [@***keepur:fedora.im***](https://fedoraproject.org/wiki/User:Keepur) / [*fedoraproject.org/**wiki/User:Keepur***](https://fedoraproject.org/wiki/User:Keepur) / [*pagure.io/user/**keepur***](https://pagure.io/user/keepur) |
+> | ❷. | **`Fedora`** / **`Redhat`** | [*accounts.fedoraproject.org/user/**keepur***](https://accounts.fedoraproject.org/user/keepur) / [*access.redhat.com/account/**57599301***](https://access.redhat.com/account/57599301) |
+> | ❸. | **`Website` (** *personal* **)** / **`LinkedIn`** | [*keerthanap8898.**github.io**/keerthanap8898*](https://keerthanap8898.github.io/keerthanap8898) / [*linkedin.com/in/**keerthanapurushotham***](https://linkedin.com/in/keerthanapurushotham) |
+> | ❹. | **`GitHub`** / *github*-**`Bio`** / *github*-**`Repositories`** | [*github.com/**keerthanap8898***](https://github.com/keerthanap8898) / [*github.com/keerthanap8898/**bio***](https://github.com/keerthanap8898/bio?#-links) / [*github.com/keerthanap8898?tab=**repositories***](https://github.com/keerthanap8898?tab=repositories) |
+> | ❺. | **`Mastodon`** / **`Bluesky`** | [@***keepur@infosec.exchange***](https://infosec.exchange/@keepur) / [@***keepur8**.bsky.social*](https://bsky.app/profile/keepur8.bsky.social) |
+> | ❻. | **`Google-Scholar`** / **`ResearchGate`** | [***scholar.google***: *user=tWzF13sAAAAJ*](https://scholar.google.com/citations?user=tWzF13sAAAAJ) / [***ResearchGate**: Keerthana Purushotham*](https://researchgate.net/profile/Keerthana-Purushotham) |
+> | ❼. | **`Medium`** / **`Substack`** | [***Medium***: @*keerthanapurushotham*](https://medium.com/@keerthanapurushotham) / [***Substack***: @*keerthanapurushotham*](https://substack.com/@keerthanapurushotham) |
+> | ❽. | **`X`** **(** *twitter* **)** / **`Discord`** | [***X***: *keepur8*](https://x.com/keepur8) / [***Discord***: **747152507184349195** - **(** *keepur8* **)**](https://discord.com/users/747152507184349195) |
+> | ❾. | **`AI Chatbot`** | [***notebooklm.google***.*com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b*](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b) |
+ 
 ---
 # 🔗 Links  
 #### ❶ **`LinkedIn`**: [linkedin.com/in/keerthanapurushotham](https://linkedin.com/in/keerthanapurushotham)
