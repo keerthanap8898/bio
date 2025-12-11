@@ -6,14 +6,19 @@
 ◯ ☽ Computer Scientist ◐ Software Developer ◑ Research Engineer ❨ ☼
 ```
 >
-> ✧ Keerthana currently works at **AWS** in the **Threat, Security & Vulnerability Management** team for Amazon-Linux ( `AL12`, `AL1`, `AL2`, `AL2023`, etc.) in **EC2**'s **Kernels & Operating Systems** org **( `KaOS` )**.
+> ✧ Keerthana currently works at **`Amazon Linux, AWS`** in the **Threat, Security & Vulnerability Management*** team ,in **EC2**'s **Kernels & Operating Systems** org **( `KaOS` )** 🙆🏻‍♀️.
+>
+> ✧ As a Software developer at **Amazon Linux (** *`AL`* **)**, she, along with the rest of her team drive **`CVE`(** *Common Vulnerabilities & exposures* **) Management**; i.e., the vulnerability life-cycle across all `AWS` OS instances, shells, VMs, Hypervisors, EC2 servers (& containers), etc.; spanning distros non-exclusively including including- `AL12`, `AL1`, `AL2`, `AL2023`, bare metal instances etc., amongst others.
+>
 > > -  She works at the intersection of AI, Distributed Systems, & Correctness; exploring how large-scale intelligent systems can be made more reliable, interpretable, & aligned with design intent.
 > > - Her work integrates **research-driven inquiry with production-grade engineering**. 
 > 
-> ✧ Keerthana has developed deep expertise in **threat modeling & remediation**, i.e, detecting new bugs & patching them; across more than **1,500 CVEs** for multiple Amazon Linux (`AL`) distributions.
-> > - These threat detections & patches regularly touched every single one of the **millions of AWS instances deployed globally** including **`EC2` servers**, **AWS hypervisors**, etc., during `AL`'s fortnightly security releases.
-> > - Also involved orchestrating automated tests spanning various linux VM instances offered by AWS averaging monthly bills in the range of **$15k - $50k** **/ *month*** for packages whose vulnerability lifecycles she's managed end-to-end; 
-> > - This non-exclusively includes packages like `docker`, `kernel`, `openssl`, `nss`, `python`, `java`, `mozilla`, etc., amongst those seen in the `AL2023` release notes : [***docs.aws.amazon.com/linux/al2023/release-notes**/all-packages-AL2023.9.html*](https://docs.aws.amazon.com/linux/al2023/release-notes/all-packages-AL2023.9.html), & more).
+> ✧ Keerthana has developed deep expertise in **threat modeling & remediation**, i.e, detecting new bugs i.e., `CVE`(*s*) & patching them; across more than **1,500 CVEs** for multiple Amazon Linux (`AL`) distributions.
+> > - These threat detections & patches regularly touched every single one of the **millions of AWS instances deployed globally** including all of **`EC2` servers**, **AWS hypervisors**, etc., during `AL`'s fortnightly security releases.
+> > - Also involved orchestrating automated tests spanning various linux VM instances offered by AWS for packages whose vulnerability lifecycles she's managed end-to-end;
+> > - This non-exclusively includes packages like `docker`, `kernel`, `openssl`, `nss`, `python`, `java`, `mozilla`, etc., amongst all packages seen on `AL2023` & more.
+> >    ###### *For reference, see **`AL2023`'s release notes*** : [*docs.aws.amazon.com/linux/al2023/release-notes/all-packages-AL2023.9.html*](https://docs.aws.amazon.com/linux/al2023/release-notes/all-packages-AL2023.9.html) .
+> >
 > 
 > ✧ She is a full-stack SDE with expertise in cybersecurity, cloud, NLP, & statistics.
 > > - At AWS, she has integrated `AWS CDK`, `C`, `Rust`, `Python`, `JavaScript`, `node.js`, most major `AWS tools & services`, `APIs`, `containers & shells`, `load-balanced edge-APIs & Lambdas`, running ***high frequency, global, federated, throttled*** workflows orchestrating **async requests**, to collect **critical threat data** as soon as they're released; to streamline, plus reliably execute engineering workflows.
