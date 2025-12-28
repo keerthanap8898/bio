@@ -13,7 +13,7 @@
 > 
 > - #### A. [**`☎️ Contact Keerthana`**](https://github.com/keerthanap8898/bio#%EF%B8%8F-contact)  
 > - #### B. [**`🔗 Resume & other Links`**](https://github.com/keerthanap8898/bio#-links)  
-> - #### C. [**`🛠️ All links related to my personal Project links`**](https://github.com/keerthanap8898/bio#%EF%B8%8F-projects) 
+> - #### C. [**`🛠️ All links related to her personal Projects`**](https://github.com/keerthanap8898/bio#%EF%B8%8F-projects) 
 > - #### D. [**`🎨 Images`**](https://github.com/keerthanap8898/bio#-images)
 >
 > ---
@@ -73,7 +73,7 @@
 
 # 🔗 Links  
 ### ❶ **`Resume`**: 
-> **(** ***Note**: I'm not a CISO or CISSP as I'm uncertified but I do have comparable experience.* **)**
+> **(** ***Note**: She's not a CISO / CISSP as she's uncertified but she does have comparable experience.* **)**
 > 
 > - ➀ [***drive.google.com**/file/d/1LtGicbL9teaShTK5oXK4NMeturMUYBJk*](https://drive.google.com/file/d/1LtGicbL9teaShTK5oXK4NMeturMUYBJk)
 > - ➁ [ ***ALT*** ]: [***overleaf.com**/read/ttkbttqdtwhz#23974e - **in case drive isn't accessible on your employer's VPN***](https://www.overleaf.com/read/ttkbttqdtwhz#23974e)
@@ -218,7 +218,7 @@
 
 # 🎨 Images
 ### ❶ `Skills Mindmap`
-> #### *Fed all my data into AI things, then asked it to make a mindmap.*
+> #### *Fed KP's data into AI things, then asked it to make a mindmap.*
 > ---
 > ![Skills Mindmap](https://github.com/keerthanap8898/bio/blob/main/Other/skills_mindmap_MAY_2025_JPEG.jpeg)
 >
@@ -227,7 +227,7 @@
 > --- 
 
 ### ❷ `Radar Chart: Skills Distribution Across Top Experiences`
-> #### *Fed all my data into AI things, then asked it to analyze my overall skill distribution.*
+> #### *Fed KP's data into AI things, then asked it to analyze her overall skill distribution.*
 > ---
 > ![Radar Chart: Skills Distribution Across Top Experiences](https://github.com/keerthanap8898/bio/blob/main/Other/Radar%20Chart%3A%20Skills%20Distribution%20Across%20Top%20Experiences.png)
 >
@@ -236,7 +236,7 @@
 > --- 
 
 ### ❸ `Weighted Technical Value by Experience` 
-> #### *Fed all my data into AI things, then asked it to identify & analyze my individual experiences of significance.*
+> #### *Fed KP's data into AI things, then asked it to identify & analyze her individual experiences of significance.*
 > ---
 > ![Weighted Technical Value by Experience](https://github.com/keerthanap8898/bio/blob/main/Other/Weighted%20Technical%20Value%20by%20Experience%20%E2%80%94%20Keerthana%20Purushotham.png)
 >
@@ -245,7 +245,7 @@
 > --- 
 
 ### ❹ `Weighted Technical Value by Skill` 
-> #### *Fed all my data into AI things, then asked it to analyze all my skills & their depth.*
+> #### *Fed KP's data into AI things, then asked it to analyze all her skills & their depth.*
 > ---
 > ![Weighted Technical Value by Skill](https://github.com/keerthanap8898/bio/blob/main/Other/Weighted%20Technical%20Value%20by%20Skill%20%E2%80%94%20Keerthana%20Purushotham.png)
 >
@@ -254,7 +254,7 @@
 > --- 
 
 ### ❺ `Portfolio Balance by Skill Group` 
-> #### *Fed all my data into AI things, then asked it to make a high-level pie-chart.*
+> #### *Fed KP's data into AI things, then asked it to make a high-level pie-chart.*
 > ---
 > ![Portfolio Balance by Skill Family](https://github.com/keerthanap8898/bio/blob/main/Other/Portfolio%20Balance%20by%20Skill%20Family%20%E2%80%94%20Keerthana%20Purushotham.png)
 >
