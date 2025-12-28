@@ -6,15 +6,15 @@
 > ◯ ☽ Computer Scientist ◐ Software Developer ◑ Research Engineer ❨ ☼
 > ```
 > 
-**(** *Last updated on Dec 28, 2025 - 02:39 PST* **)**
+**(** *Last updated on Dec 28, 2025 - 03:40am PST* **)**
 
 
 ## **`Table of Contents`**
 > 
-> - ### A. [**`☎️ Contact Keerthana`**](https://github.com/keerthanap8898/bio#%EF%B8%8F-contact)  
-> - ### B. [**`🔗 Resume & other Links`**](https://github.com/keerthanap8898/bio#-links)  
-> - ### C. [**`🛠️ All links related to my personal Project links`**](https://github.com/keerthanap8898/bio#%EF%B8%8F-projects) 
-> - ### D. [**`🎨 Images`**](https://github.com/keerthanap8898/bio#-images)
+> - #### A. [**`☎️ Contact Keerthana`**](https://github.com/keerthanap8898/bio#%EF%B8%8F-contact)  
+> - #### B. [**`🔗 Resume & other Links`**](https://github.com/keerthanap8898/bio#-links)  
+> - #### C. [**`🛠️ All links related to my personal Project links`**](https://github.com/keerthanap8898/bio#%EF%B8%8F-projects) 
+> - #### D. [**`🎨 Images`**](https://github.com/keerthanap8898/bio#-images)
 >
 > ---
 >
@@ -47,6 +47,9 @@
 > > #### ❄️🏂🏻  **`She seeks impactful roles where she can drive innovation at scale`. 🤶🏻⛄**
 > >
 > > ---
+> > 
+> [***`back to index`***](https://github.com/keerthanap8898/bio#table-of-contents)
+
 
 # ☎️ Contact
 ##### ➀ 🗓️ `Calendly`: [*calendly.com/keerthanap0808/30min*](https://calendly.com/keerthanap0808/30min)  
@@ -57,14 +60,17 @@
 > | ❶. | **`Matrix` (** *Element* **)** / **`Pagure`**  | [@***keepur***:*fedora.im*](https://matrix.to/#/@keepur:fedora.im) / [*pagure.io/user/**keepur***](https://pagure.io/user/keepur) |
 > | ❷. | **`Fedora`** / *fedora*:**`WIKI`** / **`Redhat`** | [*accounts.fedoraproject.org/user/**keepur***](https://accounts.fedoraproject.org/user/keepur) / [*fedoraproject.org/**wiki**/user:**keepur***](https://fedoraproject.org/wiki/User:Keepur) / [*access.redhat.com/account/**57599301***](https://access.redhat.com/account/57599301) |
 > | ❸. | **`Website` (** *personal* **)** / **`LinkedIn`** | [*keerthanap8898.**github.io**/keerthanap8898*](https://keerthanap8898.github.io/keerthanap8898) / [*linkedin.com/in/**keerthanapurushotham***](https://linkedin.com/in/keerthanapurushotham) |
-> | ❹. | **`GitHub`** / *github*-**`Bio`** / *github*-**`Repositories`** | [*github.com/**keerthanap8898***](https://github.com/keerthanap8898) / [*github.com/keerthanap8898/**bio***](https://github.com/keerthanap8898/bio?#-links) / [*github.com/keerthanap8898?tab=**repositories***](https://github.com/keerthanap8898?tab=repositories) |
+> | ❹. | **`GitHub`** / *github*-**`Repositories`** | [*github.com/**keerthanap8898***](https://github.com/keerthanap8898) / [*github.com/keerthanap8898?tab=**repositories***](https://github.com/stars/keerthanap8898/lists/for-the-recruiter) |
 > | ❺. | **`Mastodon`** / **`Bluesky`** | [@***keepur@infosec.exchange***](https://infosec.exchange/@keepur) / [@***keepur8**.bsky.social*](https://bsky.app/profile/keepur8.bsky.social) |
 > | ❻. | **`Google-Scholar`** / **`ResearchGate`** | [***scholar.google***: *user=tWzF13sAAAAJ*](https://scholar.google.com/citations?user=tWzF13sAAAAJ) / [***ResearchGate**: Keerthana Purushotham*](https://researchgate.net/profile/Keerthana-Purushotham) |
 > | ❼. | **`Medium`** / **`Substack`** | [***Medium***: @*keerthanapurushotham*](https://medium.com/@keerthanapurushotham) / [***Substack***: @*keerthanapurushotham*](https://substack.com/@keerthanapurushotham) |
 > | ❽. | **`X`** **(** *twitter* **)** / **`Discord`** | [***X***: *keepur8*](https://x.com/keepur8) / [***Discord***: **747152507184349195** - **(** *keepur8* **)**](https://discord.com/users/747152507184349195) |
 > | ❾. | **`AI Chatbot`** | [***notebooklm.google***.*com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b*](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b) |
  
+[***`back to index`***](https://github.com/keerthanap8898/bio#table-of-contents)
+
 ---
+
 # 🔗 Links  
 ### ❶ **`Resume`**: 
 > **(** ***Note**: I'm not a CISO or CISSP as I'm uncertified but I do have comparable experience.* **)**
@@ -75,11 +81,11 @@
 ### ❷ **`Portfolio`**:
 > **(** *Transcripts, certificates, & LORs.* **)**
 > 
-> - [*drive.google.com/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU*](https://drive.google.com/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU)
+> - [***drive.google.com**/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU*](https://drive.google.com/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU)
 
  ❸ **`LinkedIn`**: [*linkedin.com/in/keerthanapurushotham*](https://linkedin.com/in/keerthanapurushotham)
  
- ❹ **`GitHub`**: [*keerthanap8898.github.io/keerthanap8898*](https://keerthanap8898.github.io/keerthanap8898) | [*github.com/keerthanap8898*](https://github.com/keerthanap8898) | [*github.com/keerthanap8898?tab=repositories*](https://github.com/stars/keerthanap8898/lists/for-the-recruiter)
+ ❹ **`GitHub`**: [*keerthanap8898.github.io/keerthanap8898*](https://keerthanap8898.github.io/keerthanap8898) **|** [*github.com/keerthanap8898*](https://github.com/keerthanap8898) **|** [*github.com/keerthanap8898?tab=repositories*](https://github.com/stars/keerthanap8898/lists/for-the-recruiter)
  
  ❺ **`Public Mention`**: [*forum.posit.co/t/r-language-openssl-vulnerability/186809/5*](https://forum.posit.co/t/r-language-openssl-vulnerability/186809/5#:~:text=changelog%20%20%7C%20head%20%2D2-,which%20will%20lead%20to,-%23%20rpm%20%2Dq%20openssl)
 
@@ -103,7 +109,10 @@
 >    - ➀ **Art Portfolio** ( *Instagram* ) - [*instagram.com/kp_artses*](https://instagram.com/kp_artses)
 >    - ➁ **YouTube** ( *coming soon* ) - [*youtube.com/channel/UCb7duYCP_dpm4lftWeiz3ow*](https://youtube.com/channel/UCb7duYCP_dpm4lftWeiz3ow)
 
+[***`back to index`***](https://github.com/keerthanap8898/bio#table-of-contents)
+
 ---
+
 # 🛠️ Projects  
 ### ⓿ `New WIP`
 > - #### **🅰** **`Cve Toad`** :
@@ -133,6 +142,7 @@
 > >   - ➁ LinkedIn - [*linkedin.com/feed/update/urn:li:activity:7402152817488281600*](https://lnkd.in/g-cxFaxn)
 > >   - ➂ Zenodo - [*zenodo.org/records/17945080*](https://zenodo.org/records/17945080)
 > > ---
+> [***`back to index`***](https://github.com/keerthanap8898/bio#table-of-contents)
 
 #### ❶ `Text To Video App`
 > #### `☆` ***Async API using the Genmo Mochi-1 model hosted on 8×H100 GPU Kubernetes work nodes.***
@@ -181,6 +191,7 @@
    >   - ➀ GitHub - [*github.com/keerthanap8898/Automated-EDI-mapping*](https://github.com/keerthanap8898/Automated-EDI-mapping)
    >   - ➁ Zenodo - [*zenodo.org/records/18065399*](https://zenodo.org/records/18065399)
    > ---
+> [***`back to index`***](https://github.com/keerthanap8898/bio#table-of-contents)
 
 ### ❼ 🧩 `Mini Projects` | [*linkedin.com/in/keerthanapurushotham/details/projects*](https://www.linkedin.com/in/keerthanapurushotham/details/projects/)
    > **ⓐ**. **Build a Neural CRF for Constituency Parsing** : **\[** *Advanced-Statistical-NLP* **| CSE291]**
@@ -201,19 +212,26 @@
    > >  *IoT-based Arduino project using either Arduino &/or RaspberryPi with moisture sensors & pumps to maintain optimal soil moisture by plant species. Awarded 2nd place in freshman Robotics & Engineering competition at MSRIT.*  
    > >
    > > ---
+[***`back to index`***](https://github.com/keerthanap8898/bio#table-of-contents)
+
 ---
+
 # 🎨 Images
 ### ❶ `Skills Mindmap`
 > #### *Fed all my data into AI things, then asked it to make a mindmap.*
 > ---
 > ![Skills Mindmap](https://github.com/keerthanap8898/bio/blob/main/Other/skills_mindmap_MAY_2025_JPEG.jpeg)
-> 
+>
+> [***`back to index`***](https://github.com/keerthanap8898/bio#table-of-contents)
+>
 > --- 
 
 ### ❷ `Radar Chart: Skills Distribution Across Top Experiences`
-> #### *Fed all my data into AI things, then asked it to analyze all my skill distribution overall.*
+> #### *Fed all my data into AI things, then asked it to analyze my overall skill distribution.*
 > ---
 > ![Radar Chart: Skills Distribution Across Top Experiences](https://github.com/keerthanap8898/bio/blob/main/Other/Radar%20Chart%3A%20Skills%20Distribution%20Across%20Top%20Experiences.png)
+>
+> [***`back to index`***](https://github.com/keerthanap8898/bio#table-of-contents)
 >
 > --- 
 
@@ -222,6 +240,8 @@
 > ---
 > ![Weighted Technical Value by Experience](https://github.com/keerthanap8898/bio/blob/main/Other/Weighted%20Technical%20Value%20by%20Experience%20%E2%80%94%20Keerthana%20Purushotham.png)
 >
+> [***`back to index`***](https://github.com/keerthanap8898/bio#table-of-contents)
+>
 > --- 
 
 ### ❹ `Weighted Technical Value by Skill` 
@@ -229,14 +249,18 @@
 > ---
 > ![Weighted Technical Value by Skill](https://github.com/keerthanap8898/bio/blob/main/Other/Weighted%20Technical%20Value%20by%20Skill%20%E2%80%94%20Keerthana%20Purushotham.png)
 >
-> ---
+> [***`back to index`***](https://github.com/keerthanap8898/bio#table-of-contents)
+>
+> --- 
 
 ### ❺ `Portfolio Balance by Skill Group` 
 > #### *Fed all my data into AI things, then asked it to make a high-level pie-chart.*
 > ---
 > ![Portfolio Balance by Skill Family](https://github.com/keerthanap8898/bio/blob/main/Other/Portfolio%20Balance%20by%20Skill%20Family%20%E2%80%94%20Keerthana%20Purushotham.png)
 >
-> ---
+> [***`back to index`***](https://github.com/keerthanap8898/bio#table-of-contents)
+>
+> --- 
 
 ```
 Copyright Ⓒ 2025  Keerthana Purushotham <keep.consult@proton.me>.
