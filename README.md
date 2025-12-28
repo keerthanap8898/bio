@@ -1,12 +1,24 @@
-# Keerthana Purushotham - Networking  
-### ***Relevant Links related to me & my work***  
-**`Last updated as of Dec 10, 2025 - 21:43 PST`**
-
-```
-◯ ☽ Computer Scientist ◐ Software Developer ◑ Research Engineer ❨ ☼
-```
+# **Keerthana Purushotham**
+> 
+> *aka*  -  **`K.P.`**
 >
-> ✧ Keerthana currently works at **`Amazon Linux, AWS`** in the **Threat, Security & Vulnerability Management*** team ,in **EC2**'s **Kernels & Operating Systems** org **( `KaOS` )** 🙆🏻‍♀️.
+> ```
+> ◯ ☽ Computer Scientist ◐ Software Developer ◑ Research Engineer ❨ ☼
+> ```
+> 
+**(** *Last updated on Dec 28, 2025 - 02:39 PST* **)**
+
+
+## **`Table of Contents`**
+> 
+> - ### A. [**`☎️ Contact Keerthana`**](https://github.com/keerthanap8898/bio#%EF%B8%8F-contact)  
+> - ### B. [**`🔗 Resume & other Links`**](https://github.com/keerthanap8898/bio#-links)  
+> - ### C. [**`🛠️ All links related to my personal Project links`**](https://github.com/keerthanap8898/bio#%EF%B8%8F-projects) 
+> - ### D. [**`🎨 Images`**](https://github.com/keerthanap8898/bio#-images)
+>
+> ---
+>
+> ✧ Keerthana currently works at **`Amazon Linux, AWS`** in the **Threat, Security & Vulnerability Management** team ,in **EC2**'s **Kernels & Operating Systems** org **( `KaOS` )** 🙆🏻‍♀️.
 >
 > ✧ As a Software developer at **Amazon Linux (** *`AL`* **)**, she, along with the rest of her team drive **`CVE`(** *Common Vulnerabilities & exposures* **) Management**; i.e., the vulnerability life-cycle across all `AWS` OS instances, shells, VMs, Hypervisors, EC2 servers (& containers), etc.; spanning distros non-exclusively including including- `AL12`, `AL1`, `AL2`, `AL2023`, bare metal instances etc., amongst others.
 >
@@ -37,10 +49,10 @@
 > > ---
 
 # ☎️ Contact
-##### ➀ 🗓️ `Calendly`: [calendly.com/keerthanap0808/30min](https://calendly.com/keerthanap0808/30min)  
-##### ➁ 📧 `Email`: » [keep.consult@proton.me](mailto:keep.consult@proton.me) | » [keerthanap0808.at.gmail.dot.com](mailto:keerthanap0808@gmail.com)
-##### ➂ 📱 `Phone`: » [+1 360-328-1182](tel:+13603281182) | » [USA eight-five-eight_203_8957](tel:+18582038957)
-> | # | **`Category`** | **`Links`** |
+##### ➀ 🗓️ `Calendly`: [*calendly.com/keerthanap0808/30min*](https://calendly.com/keerthanap0808/30min)  
+##### ➁ 📧 `Email`: » [*keep.consult@proton.me*](mailto:keep.consult@proton.me) | » [*keerthanap0808.at.gmail.dot.com*](mailto:keerthanap0808@gmail.com)
+##### ➂ 📱 `Phone`: » [+*1 360-328-1182*](tel:+13603281182) | » [*USA eight-five-eight_203_8957*](tel:+18582038957)
+> | # | **Category** | **Links** |
 > |------|----------|-----------------------------|
 > | ❶. | **`Matrix` (** *Element* **)** / **`Pagure`**  | [@***keepur***:*fedora.im*](https://matrix.to/#/@keepur:fedora.im) / [*pagure.io/user/**keepur***](https://pagure.io/user/keepur) |
 > | ❷. | **`Fedora`** / *fedora*:**`WIKI`** / **`Redhat`** | [*accounts.fedoraproject.org/user/**keepur***](https://accounts.fedoraproject.org/user/keepur) / [*fedoraproject.org/**wiki**/user:**keepur***](https://fedoraproject.org/wiki/User:Keepur) / [*access.redhat.com/account/**57599301***](https://access.redhat.com/account/57599301) |
@@ -54,99 +66,132 @@
  
 ---
 # 🔗 Links  
-#### ❶ **`LinkedIn`**: [linkedin.com/in/keerthanapurushotham](https://linkedin.com/in/keerthanapurushotham)
-#### ❷ **`GitHub`**: [keerthanap8898.github.io/keerthanap8898](https://keerthanap8898.github.io/keerthanap8898) | [github.com/keerthanap8898](https://github.com/keerthanap8898) | [github.com/keerthanap8898?tab=repositories](https://github.com/keerthanap8898?tab=repositories)
-#### ❸ **`Resume`**: 
->    - ***NOTE**: I'm not a CISO/CISSP (uncertified).*
->    - ➀ **Google-drive**: [drive.google.com/file/d/1LtGicbL9teaShTK5oXK4NMeturMUYBJk/view](https://drive.google.com/file/d/1LtGicbL9teaShTK5oXK4NMeturMUYBJk/view)
->    - ➁ **`W.I.P`** **[** *~alt~* **]**: [~~*in case Gmail/Google-drive isn't accessible on your employer's corporate VPN*~~](https://www.overleaf.com/read/qhckzfgxdrgs#af9564).  **`W.I.P`**
-#### ❹ **`Portfolio`**: [drive.google.com/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU/view](https://drive.google.com/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU/view)
-#### ❺ **`Public Mention`**: [forum.posit.co/t/r-language-openssl-vulnerability/186809/5#:~:text=changelog%20%20%7C%20head%20%2D2-,which%20will%20lead%20to](https://forum.posit.co/t/r-language-openssl-vulnerability/186809/5#:~:text=changelog%20%20%7C%20head%20%2D2-,which%20will%20lead%20to,-%23%20rpm%20%2Dq%20openssl)
-#### ❻ **`Master Work-History`**: [drive.google.com/file/d/1rfnKRi1yG7e-KyQfpTxthXagnjXKVkGg/view](https://drive.google.com/file/d/1rfnKRi1yG7e-KyQfpTxthXagnjXKVkGg/view)
-#### ❼ **`AI Chatbot trained on Keerthana's Profile`** ( ***Google-LM*** ):
-> #### [notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655)
-#### ❽ **`Research`**:
->    - ➀ **Google Scholar** - [scholar.google.com/citations?user=tWzF13sAAAAJ](https://scholar.google.com/citations?user=tWzF13sAAAAJ)  
->    - ➁ **Medium** - [medium.com/@keerthanapurushotham](https://medium.com/@keerthanapurushotham)
->    - ➂ **Substack** - [substack.com/@keerthanapurushotham](https://substack.com/@keerthanapurushotham)
->    - ➃ **ResearchGate** - [researchgate.net/profile/Keerthana-Purushotham](https://www.researchgate.net/profile/Keerthana-Purushotham)
->    - ➄ **Google-LM Audio Summary** ( *G-Drive* ) - [drive.google.com/file/d/1TIv9bmw2HRo9JkZyHOzG4XH6CTmgmjTd/view](https://drive.google.com/file/d/1TIv9bmw2HRo9JkZyHOzG4XH6CTmgmjTd/view)
->    - ➅ **Scopus Author Profile** - [scopus.com/authid/detail.uri?authorId=57221594595](https://www.scopus.com/authid/detail.uri?authorId=57221594595)
->    - ➆ **ORCiD Author Profile** - [orcid.org/0009-0000-8197-7048](https://orcid.org/0009-0000-8197-7048)
->    - ➇ **IEEE Author Profile** - [ieeexplore.ieee.org/author/37088644371](https://ieeexplore.ieee.org/author/37088644371)
->    - ➈ **ACL Anthology Author Profile** - [aclanthology.org/people/keerthana-purushotham](https://aclanthology.org/people/keerthana-purushotham)
-#### ❾ **`Other`**:
->    - ➀ **Art Portfolio** ( *Instagram* ) - [instagram.com/kp_artses](https://instagram.com/kp_artses)
->    - ➁ **YouTube** ( *coming soon* ) - [youtube.com/channel/UCb7duYCP_dpm4lftWeiz3ow](https://youtube.com/channel/UCb7duYCP_dpm4lftWeiz3ow)
+### ❶ **`Resume`**: 
+> **(** ***Note**: I'm not a CISO or CISSP as I'm uncertified but I do have comparable experience.* **)**
+> 
+> - ➀ [***drive.google.com**/file/d/1LtGicbL9teaShTK5oXK4NMeturMUYBJk*](https://drive.google.com/file/d/1LtGicbL9teaShTK5oXK4NMeturMUYBJk)
+> - ➁ [ ***ALT*** ]: [***overleaf.com**/read/ttkbttqdtwhz#23974e - **in case drive isn't accessible on your employer's VPN***](https://www.overleaf.com/read/ttkbttqdtwhz#23974e)
+
+### ❷ **`Portfolio`**:
+> **(** *Transcripts, certificates, & LORs.* **)**
+> 
+> - [*drive.google.com/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU*](https://drive.google.com/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU)
+
+ ❸ **`LinkedIn`**: [*linkedin.com/in/keerthanapurushotham*](https://linkedin.com/in/keerthanapurushotham)
+ 
+ ❹ **`GitHub`**: [*keerthanap8898.github.io/keerthanap8898*](https://keerthanap8898.github.io/keerthanap8898) | [*github.com/keerthanap8898*](https://github.com/keerthanap8898) | [*github.com/keerthanap8898?tab=repositories*](https://github.com/stars/keerthanap8898/lists/for-the-recruiter)
+ 
+ ❺ **`Public Mention`**: [*forum.posit.co/t/r-language-openssl-vulnerability/186809/5*](https://forum.posit.co/t/r-language-openssl-vulnerability/186809/5#:~:text=changelog%20%20%7C%20head%20%2D2-,which%20will%20lead%20to,-%23%20rpm%20%2Dq%20openssl)
+
+ ❻ **`AI Chatbot trained on Keerthana's Profile`**: 
+> **(** *googleLM* **)**
+> 
+> - [***notebooklm.google**.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b*](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655)
+
+ ❼ **`Research`**:
+>    - ➀ **Google Scholar** - [*scholar.google.com/citations?user=tWzF13sAAAAJ*](https://scholar.google.com/citations?user=tWzF13sAAAAJ)  
+>    - ➁ **Medium** - [*medium.com/@keerthanapurushotham*](https://medium.com/@keerthanapurushotham)
+>    - ➂ **Substack** - [*substack.com/@keerthanapurushotham*](https://substack.com/@keerthanapurushotham)
+>    - ➃ **ResearchGate** - [*researchgate.net/profile/Keerthana-Purushotham*](https://www.researchgate.net/profile/Keerthana-Purushotham)
+>    - ➄ **Google-LM Audio Summary** ( *G-Drive* ) - [*drive.google.com/file/d/1TIv9bmw2HRo9JkZyHOzG4XH6CTmgmjTd*](https://drive.google.com/file/d/1TIv9bmw2HRo9JkZyHOzG4XH6CTmgmjTd)
+>    - ➅ **Scopus Author Profile** - [*scopus.com/authid/detail.uri?authorId=57221594595*](https://www.scopus.com/authid/detail.uri?authorId=57221594595)
+>    - ➆ **ORCiD Author Profile** - [*orcid.org/0009-0000-8197-7048*](https://orcid.org/0009-0000-8197-7048)
+>    - ➇ **IEEE Author Profile** - [*ieeexplore.ieee.org/author/37088644371*](https://ieeexplore.ieee.org/author/37088644371)
+>    - ➈ **ACL Anthology Author Profile** - [*aclanthology.org/people/keerthana-purushotham*](https://aclanthology.org/people/keerthana-purushotham)
+
+ ❽ **`Other`**:
+>    - ➀ **Art Portfolio** ( *Instagram* ) - [*instagram.com/kp_artses*](https://instagram.com/kp_artses)
+>    - ➁ **YouTube** ( *coming soon* ) - [*youtube.com/channel/UCb7duYCP_dpm4lftWeiz3ow*](https://youtube.com/channel/UCb7duYCP_dpm4lftWeiz3ow)
 
 ---
 # 🛠️ Projects  
-### ⓿ `New WIP` —
-> - ### **🅰** **`Cve Toad`** : 
->      - #### `☆` **\[** *Security* | *OSS* **]**
-> ***I propose a secure, ephemeral “CVE‐Checker Shell” — a command‐line tool that launches a temporary containerised runtime to perform AI-assisted CVE impact analysis.***
-> 
-> ***The shell initialises with short-lived authentication tokens (≤ 8 hours) and dynamically installs approved AI model clients (e.g., OpenAI, Anthropic) inside the container. Once execution completes, the container and all secrets are destroyed, leaving no footprint on the host.***
-> >   - ➀ [*github.com/keerthanap8898/CveToad*](https://github.com/keerthanap8898/CveToad)
-> >   - ➁ [*github.com/keerthanap8898/CveToad/blob/main/CVE-user-story_Description.md*](https://github.com/keerthanap8898/CveToad/blob/main/CVE-user-story_Description.md)
+### ⓿ `New WIP`
+> - #### **🅰** **`Cve Toad`** :
+>   `☆` **[** *Security* **|** *OSS* **]**
+>   
+> #### ***A command‐line tool that launches a temporary containerised runtime to perform AI-assisted CVE impact analysis.***
+> ##### ***The shell initialises with short-lived authentication tokens (≤ 8 hours) and dynamically installs approved AI model clients (e.g., OpenAI, Anthropic) inside the container. Once execution completes, the container and all secrets are destroyed, leaving no footprint on the host.***
+> >   - ➀ GitHub README - [*github.com/keerthanap8898/CveToad*](https://github.com/keerthanap8898/CveToad)
+> >   - ➁ GitHub Project Background - [*github.com/keerthanap8898/CveToad/blob/main/CVE-user-story_Description.md*](https://github.com/keerthanap8898/CveToad/blob/main/CVE-user-story_Description.md)
+> >   - ➂ Zenodo - [*zenodo.org/records/18065367*](https://zenodo.org/records/18065367)
+> >   - ➃ See the **`INTRO webpage`** , and listen to the **deep-dive (** *14min* **)** at -
+> >     **☆** [***keerthanap8898.github.io/CveToad/INTRO***](http://lnkd.in/gE2wUqgc) **☆**
+> > 
 > > ---
 >
-> - ### **🅱** **`Understanding-Testing-Frameworks`** : 
->      - #### `☆` **\[** *SDLC* | *Book* **]**
-> ***A comprehensive, formal, & practical framework for software testing across the entire SDLC, from code to continuous verification.***
+> - #### **🅱** **`Understanding-Testing-Frameworks`** :
+>   `☆` **[** *SDLC* **|** *Chapter* or *Booklet* **]**
+>   
+> #### ***A comprehensive, formal, & practical framework for software testing across the entire SDLC, from code to continuous verification.***
 > 
 > #### ***`Key ideas`***:
-> 1. ***┈ Every SDLC stage corresponds to a different NP-hard decision problem***.
-> 2. ***┈ Tests are complexity-reduction mechanisms***.
-> 3. ***┈ Determinism is engineered; not assumed***.
-> 
-> ***This project is early, but the core structure is there.***
-> >   - **➀** [*github.com/keerthanap8898/Understanding-Testing-Frameworks*](https://github.com/keerthanap8898/Understanding-Testing-Frameworks#see-book---breachtracegitbookiounderstanding-testing-frameworks--wip-)
-> >   - **➁** [*linkedin.com/feed/update/urn:li:activity:7402152817488281600*](https://lnkd.in/g-cxFaxn)
+> 1. *┈ Every SDLC stage corresponds to a different NP-hard decision problem*.
+> 2. *┈ Tests are complexity-reduction mechanisms*.
+> 3. *┈ Determinism is engineered; not assumed*.
+> ##### ***This project is early, but the core structure is there.***
+> >   - ➀ GitHub - [*github.com/keerthanap8898/Understanding-Testing-Frameworks*](https://github.com/keerthanap8898/Understanding-Testing-Frameworks#see-book---breachtracegitbookiounderstanding-testing-frameworks--wip-)
+> >   - ➁ LinkedIn - [*linkedin.com/feed/update/urn:li:activity:7402152817488281600*](https://lnkd.in/g-cxFaxn)
+> >   - ➂ Zenodo - [*zenodo.org/records/17945080*](https://zenodo.org/records/17945080)
 > > ---
 
-### ❶ `Text To Video App` —
+#### ❶ `Text To Video App`
 > #### `☆` ***Async API using the Genmo Mochi-1 model hosted on 8×H100 GPU Kubernetes work nodes.***
-   >   - ➀ LinkedIn - [linkedin.com/feed/update/urn:li:ugcPost:7373897755317960704](https://www.linkedin.com/feed/update/urn:li:ugcPost:7373897755317960704)
-   >   - ➁ GitHub ( *w.i.p* )- [github.com/keerthanap8898/TextToVideoAPI](https://github.com/keerthanap8898/TextToVideoAPI)
-   >   - ➂ View Demo Website at - [keerthanap8898.github.io/TextToVideoAPI](https://keerthanap8898.github.io/TextToVideoAPI)
+   >   - ➀ LinkedIn - [*linkedin.com/feed/update/urn:li:ugcPost:7373897755317960704*](https://www.linkedin.com/feed/update/urn:li:ugcPost:7373897755317960704)
+   >   - ➁ GitHub - [*github.com/keerthanap8898/TextToVideoAPI*](https://github.com/keerthanap8898/TextToVideoAPI)
+   >   - ➂ View the demo-webpage at - [*keerthanap8898.github.io/TextToVideoAPI*](https://keerthanap8898.github.io/TextToVideoAPI)
+   >   - ➃ Zenodo - [*zenodo.org/records/18065356*](https://zenodo.org/records/18065356)
    > ---
 
-### ❷ `Accuracy Is Not Enough` — 
+#### ❷ `Accuracy Is Not Enough`
 > #### `☆` ***Confusion Matrix Metrics That Actually Work in CVE Impact Prediction***
-   > ***An applied research summary introducing advanced confusion-matrix metrics that outperform accuracy in predicting CVE exploitability impact.***
-   >   - ➀ LinkedIn - [linkedin.com/posts/keerthanapurushotham_vulnerabilitymanagement-cve-security-activity-7374937046538436608-quKj](https://www.linkedin.com/posts/keerthanapurushotham_vulnerabilitymanagement-cve-security-activity-7374937046538436608-quKj)
-   >   - ➁ Substack - [keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion](https://keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion)
-   >   - ➂ Medium - [medium.com/@keerthanapurushotham/accuracy-is-not-enough-confusion-matrix-metrics-that-actually-work-in-cve-impact-prediction-d4bafd9cec1b](https://medium.com/@keerthanapurushotham/accuracy-is-not-enough-confusion-matrix-metrics-that-actually-work-in-cve-impact-prediction-d4bafd9cec1b)
-   >   - ➃ Github - [github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/blob/main/README.md)
-   >   - ➄ Zenodo - [zenodo.org/records/17438182](https://zenodo.org/records/17438182) 
+   > ##### ***An applied research summary introducing advanced confusion-matrix metrics that outperform accuracy in predicting CVE exploitability impact.***
+   >   - ➀ LinkedIn - [*linkedin.com/posts/keerthanapurushotham_vulnerabilitymanagement-cve-security-activity-7374937046538436608-quKj*](https://www.linkedin.com/posts/keerthanapurushotham_vulnerabilitymanagement-cve-security-activity-7374937046538436608-quKj)
+   >   - ➁ Substack - [*keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion*](https://keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion)
+   >   - ➂ Medium - [*medium.com/@keerthanapurushotham/accuracy-is-not-enough-confusion-matrix-metrics-that-actually-work-in-cve-impact-prediction-d4bafd9cec1b*](https://medium.com/@keerthanapurushotham/accuracy-is-not-enough-confusion-matrix-metrics-that-actually-work-in-cve-impact-prediction-d4bafd9cec1b)
+   >   - ➃ Github - [*github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity*](https://github.com/keerthanap8898/Accuracy-is-Not-Enough-in-Cybersecurity/blob/main/README.md)
+   >   - ➄ Zenodo - [*zenodo.org/records/17438182*](https://zenodo.org/records/17438182) 
    > ---
 
-### ❸ `Cloud Storage Security Risks, Practices & Measures: A Review` | 40 cites — Jan 1 2020
+#### ❸ `Cloud Storage Security Risks, Practices & Measures: A Review` [*IEEE*] | 40 cites — Jan 1 2020
 > #### `☆` ***Comprehensive review of security threats, mitigation practices, and compliance measures in enterprise cloud storage systems.***
-   >   - ➀ IEEE Xplore - [ieeexplore.ieee.org/abstract/document/9298281](https://ieeexplore.ieee.org/abstract/document/9298281)
+   >   - ➀ IEEE Xplore - [*ieeexplore.ieee.org/abstract/document/9298281*](https://ieeexplore.ieee.org/abstract/document/9298281)
    > ---
 
-#### ❹ `Image Denoising using Auto-encoders & Spatial Filters for Gaussian Noise` | 7 cites — Mar 15 2021
+
+#### ❹ `Image Denoising using Auto-encoders & Spatial Filters for Gaussian Noise` [*IEEE*] | 7 cites — Mar 15 2021
+**(** *MSRIT Final Year Project* **)**
 > #### `☆` ***Proposes a hybrid auto-encoder + spatial filter framework to denoise medical images affected by Gaussian noise.***
-   >   - ➀ IEEE Xplore - [ieeexplore.ieee.org/abstract/document/9377166](https://ieeexplore.ieee.org/abstract/document/9377166)
-   >   - ➁ GitHub - [github.com/keerthanap8898/Detecting-pneumonias-from-chest-X-rays-using-different-CNN-architectures](https://github.com/keerthanap8898/Detecting-pneumonias-from-chest-X-rays-using-different-CNN-architectures)
+   >   - ➀ IEEE Xplore - [*ieeexplore.ieee.org/abstract/document/9377166*](https://ieeexplore.ieee.org/abstract/document/9377166)
+   >   - ➁ GitHub - [*github.com/keerthanap8898/Detecting-pneumonias-from-chest-X-rays-using-different-CNN-architectures*](https://github.com/keerthanap8898/Detecting-pneumonias-from-chest-X-rays-using-different-CNN-architectures)
+   >   - ➂ Zenodo - [*zenodo.org/records/18065387*](https://zenodo.org/records/18065387)
    > ---
 
-### ❺ `Context-Based Filtering of Conversational Data` | 2 cites — May 22 2021
+#### ❺ `Context-Based Filtering of Conversational Data` [*ACL*] | 2 cites — May 22 2021
+**(** *internship at Samsung R&D* **)**
 > #### `☆` ***Introduces a context-aware comment filtering system for NLP pipelines using semantic relevance modeling.***
-   >   - ➀ ACL Anthology - [aclanthology.org/2020.icon-workshop.5](https://aclanthology.org/2020.icon-workshop.5/)
-   >   - ➁ GitHub - [github.com/keerthanap8898/context-based-comment-filtering](https://github.com/keerthanap8898/context-based-comment-filtering)
+   >   - ➀ ACL Anthology - [*aclanthology.org/2020.icon-workshop.5*](https://aclanthology.org/2020.icon-workshop.5/)
+   >   - ➁ GitHub - [*github.com/keerthanap8898/context-based-comment-filtering*](https://github.com/keerthanap8898/context-based-comment-filtering)
+   >   - ➂ Zenodo - [*zenodo.org/records/18065405*](https://zenodo.org/records/18065405)
    > ---
 
-### ❻ 🧩 `Mini Projects` | [linkedin.com/in/keerthanapurushotham/details/projects](https://www.linkedin.com/in/keerthanapurushotham/details/projects/)
+#### ❻ `Automated EDI Mapping` 
+**(** *internship at Cleo* **)**
+> #### `☆` ***Analysis & automation of types of EDI mapping (to help facilitate the manual data mapping in data transformation systems) - using RNNs, Logistic Regression, & Fuzzy Logic to generate results and comparison the three approaches.***
+> ##### ***Repo includes the apk code executing a function to read customer requirement documents as a user-input & automatically generate a ruleset file dynamically.***
+   >   - ➀ GitHub - [*github.com/keerthanap8898/Automated-EDI-mapping*](https://github.com/keerthanap8898/Automated-EDI-mapping)
+   >   - ➁ Zenodo - [*zenodo.org/records/18065399*](https://zenodo.org/records/18065399)
+   > ---
+
+### ❼ 🧩 `Mini Projects` | [*linkedin.com/in/keerthanapurushotham/details/projects*](https://www.linkedin.com/in/keerthanapurushotham/details/projects/)
    > **ⓐ**. **Build a Neural CRF for Constituency Parsing** : **\[** *Advanced-Statistical-NLP* **| CSE291]**
    > >  *Implemented a neural CRF parser using the CKY algorithm on the Penn Treebank (PTB) dataset. Computed the partition function within the NLL loss via the inside algorithm and trained models on Google Colab GPU for optimal performance.*
-   > >    - `☆` [*github.com/keerthanap8898/NeuralCRFs_for_ConstituencyParsing*](https://github.com/keerthanap8898/NeuralCRFs_for_ConstituencyParsing)
+   > >    - ➀ [*github.com/keerthanap8898/NeuralCRFs_for_ConstituencyParsing*](https://github.com/keerthanap8898/NeuralCRFs_for_ConstituencyParsing)
+   > >    - ➁ [*zenodo.org/records/18065392*](https://zenodo.org/records/18065392)
    > > ---
    > **ⓑ**. **Build a Neural CRF NER Tagger** ***- How to build a baby BERT*** : **\[** *Advanced-Statistical-NLP* **| CSE291]**
    > > *Developed BiLSTM + CRF architectures for Named Entity Recognition (NER), compared to a baseline BiLSTM tagger. Implemented and benchmarked both on GPU-enabled Colab environments.*
-   > >    - `☆` [*github.com/keerthanap8898/Neural-CRF_NER-Tagger/*](https://github.com/keerthanap8898/Neural-CRF_NER-Tagger/)
+   > >    - ➀ [*github.com/keerthanap8898/Neural-CRF_NER-Tagger*](https://github.com/keerthanap8898/Neural-CRF_NER-Tagger/)
+   > >    - ➁ [*zenodo.org/records/18065396*](https://zenodo.org/records/18065396)
    > > ---
    > **ⓒ**. **System Measurement** ***- Ubuntu*** : **\[** *Operating-Systems* **| CSE221]**
    > >  *Performed experiments to measure OS-level components including CPU scheduling, memory allocation, networking, and filesystem latency on Ubuntu systems; analyzed bottlenecks in system services.*
