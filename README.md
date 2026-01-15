@@ -79,7 +79,7 @@
 > - ➀ [***drive.google.com**/file/d/1fpkiFK7ZOzuybUquIE8czLLu6xfVEFu-*](https://drive.google.com/file/d/1fpkiFK7ZOzuybUquIE8czLLu6xfVEFu-)
 > - ➁ [ ***ALT*** ]: [***overleaf.com**/read/ttkbttqdtwhz#23974e - **in case drive isn't accessible on your employer's VPN***](https://www.overleaf.com/read/ttkbttqdtwhz#23974e)
 
-### ❷ **`Portfolio`**:
+### ❷ **`PORTFOLIO`**:
 > **(** *Transcripts, certificates, & LORs.* **)**
 > 
 > - [***drive.google.com**/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU*](https://drive.google.com/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU)
