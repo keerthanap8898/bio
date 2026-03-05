@@ -97,8 +97,8 @@
 ---
 
 # 🛠️ Projects  
-### ⓿ `New WIP`
-> - #### **🅰** **`Cve Toad`** :
+#### ⓿ `New WIP`
+> - #### **🅰** ***`Cve Toad`*** :
 >   `☆` **[** *Security* **|** *OSS* **]**
 >   
 > #### ***A command‐line tool that launches a temporary containerised runtime to perform AI-assisted CVE impact analysis.***
@@ -111,7 +111,7 @@
 > > 
 > > ---
 >
-> - #### **🅱** **`Understanding-Testing-Frameworks`** :
+> - #### **🅱** ***`Understanding-Testing-Frameworks`*** :
 >   `☆` **[** *SDLC* **|** *Chapter* or *Booklet* **]**
 >   
 > #### ***A comprehensive, formal, & practical framework for software testing across the entire SDLC, from code to continuous verification.***
@@ -135,7 +135,7 @@
    >   - ➃ Zenodo - [*zenodo.org/records/18065356*](https://zenodo.org/records/18065356)
    > ---
 
-#### ❷ `Accuracy Is Not Enough` [*VULNCON-26*] | 30min plenary talk (*solo speaker*) — April 2026
+### ❷ `Accuracy Is Not Enough` [*VULNCON-26*] | 30min plenary talk (*solo speaker*) — April 2026
    > #### `☆` ***Confusion Matrix Metrics That Actually Work in CVE Impact Prediction***
 #### **˗ˏˋ ⭒** *Accepted to present a* *`30min plenary seminar`*, (*with Q&A*) *at* [***`Vulncon2026`***](first.org/conference/vulncon26). **⭒ ˎˊ˗** 
 - ##### *hosted by* [*first.org*](first.org/conference/vulncon26) & [*cve.org*](CVE.org) *in mid April, 2026*; *where Keerthana will be the **`solo author/speaker`***.
