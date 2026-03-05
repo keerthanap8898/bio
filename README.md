@@ -1,23 +1,21 @@
 # **Keerthana Purushotham**
+*aka*  -  ***`K.P.`***
+#### **˗ˏˋ ⭒**  [*github.com/stars/keerthanap8898/lists/for-the-recruiter*](https://github.com/stars/keerthanap8898/lists/for-the-recruiter)  **⭒ ˎˊ˗**
+> `> ◯ ☽ Computer Scientist ◐ Software Developer ◑ Research Engineer ❨ ☼`
 > 
-> *aka*  -  **`K.P.`**
+> **(** *Last updated on **`Mar 5th, 2026` - `12:14pm`** PST* **)**
 >
-> ```
-> ◯ ☽ Computer Scientist ◐ Software Developer ◑ Research Engineer ❨ ☼
-> ```
-> 
-**(** *Last updated on Jan 14, 2026 - 17:08 PST* **)**
-
-
-## **`Table of Contents`**
-> 
-> - #### A. [**`☎️ Contact Keerthana`**](https://github.com/keerthanap8898/bio#%EF%B8%8F-contact)  
-> - #### B. [**`🔗 Resume & other Links`**](https://github.com/keerthanap8898/bio#-links)  
-> - #### C. [**`🛠️ Links to all of her personal Projects`**](https://github.com/keerthanap8898/bio#%EF%B8%8F-projects) 
-> - #### D. [**`🎨 Images`**](https://github.com/keerthanap8898/bio#-images)
->
-> ---
->
+---
+> ### **`Table of Contents`:**
+> > 
+> > - ##### A. [**`💁🏻‍♀️ INTRO`**](https://github.com/keerthanap8898/bio#%EF%B8%8F-contact) 
+> > - ##### B. [**`🔗 Links` (** *Resume & Other docs* **)**](https://github.com/keerthanap8898/bio#-links)  
+> > - ##### C. [**`🛠️ Projects`**](https://github.com/keerthanap8898/bio#%EF%B8%8F-projects) 
+> > - ##### D. [**`🎨 Images`**](https://github.com/keerthanap8898/bio#-images)
+> > - ##### E. [**`☎️ Contact Keerthana`**](https://github.com/keerthanap8898/bio#%EF%B8%8F-contact)  
+> >
+---
+# 💁🏻‍♀️ INTRO
 > ✧ Keerthana currently works at **`Amazon Linux, AWS`** in the **Threat, Security & Vulnerability Management** team, in **EC2**'s **Kernels & Operating Systems** org **( `KaOS` )** 🙆🏻‍♀️.
 >
 > ✧ As a Software developer at **Amazon Linux (** *`AL`* **)**, she, along with the rest of her team drive **`CVE`(** *Common Vulnerabilities & exposures* **) Management**; i.e., the vulnerability life-cycle across all `AWS` OS instances, shells, VMs, Hypervisors, EC2 servers (& containers), etc.; spanning distros non-exclusively including including- `AL12`, `AL1`, `AL2`, `AL2023`, bare metal instances etc., amongst others.
@@ -50,61 +48,45 @@
 > > 
 > [***`back to index`***](https://github.com/keerthanap8898/bio?tab=readme-ov-file#table-of-contents)
 
-
-# ☎️ Contact
-##### ➀ 🗓️ `Calendly`: [*calendly.com/keerthanap0808/30min*](https://calendly.com/keerthanap0808/30min)  
-##### ➁ 📧 `Email`: » [*keep.consult@proton.me*](mailto:keep.consult@proton.me) | » [*keerthanap0808.at.gmail.dot.com*](mailto:keerthanap0808@gmail.com)
-##### ➂ 📱 `Phone`: » [+*1 360-328-1182*](tel:+13603281182) | » [*USA eight-five-eight_203_8957*](tel:+18582038957)
-> | # | **Category** | **Links** |
-> |------|----------|-----------------------------|
-> | ⓿. | **`RESUME`** & **`PORTFOLIO`**  | [***overleaf.com**/read/ttkbttqdtwhz#23974e*](https://www.overleaf.com/read/ttkbttqdtwhz#23974e) / [***drive.google.com**/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU*](https://drive.google.com/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU) |
-> | ❶. | **`Matrix` (** *Element* **)** / **`Pagure`**  | [@***keepur***:*fedora.im*](https://matrix.to/#/@keepur:fedora.im) / [*pagure.io/user/**keepur***](https://pagure.io/user/keepur) |
-> | ❷. | **`Fedora`** / *fedora*:**`WIKI`** / **`Redhat`** | [*accounts.fedoraproject.org/user/**keepur***](https://accounts.fedoraproject.org/user/keepur) / [*fedoraproject.org/**wiki**/user:**keepur***](https://fedoraproject.org/wiki/User:Keepur) / [*access.redhat.com/account/**57599301***](https://access.redhat.com/account/57599301) |
-> | ❸. | **`Website` (** *personal* **)** / **`LinkedIn`** | [*keerthanap8898.**github.io**/keerthanap8898*](https://keerthanap8898.github.io/keerthanap8898) / [*linkedin.com/in/**keerthanapurushotham***](https://linkedin.com/in/keerthanapurushotham) |
-> | ❹. | **`GitHub`** / *github*-**`Repositories`** | [*github.com/**keerthanap8898***](https://github.com/keerthanap8898) / [*github.com/keerthanap8898?tab=**repositories***](https://github.com/stars/keerthanap8898/lists/for-the-recruiter) |
-> | ❺. | **`Mastodon`** / **`Bluesky`** | [@***keepur@infosec.exchange***](https://infosec.exchange/@keepur) / [@***keepur8**.bsky.social*](https://bsky.app/profile/keepur8.bsky.social) |
-> | ❻. | **`Google-Scholar`** / **`ResearchGate`** | [***scholar.google***: *user=tWzF13sAAAAJ*](https://scholar.google.com/citations?user=tWzF13sAAAAJ) / [***ResearchGate**: Keerthana Purushotham*](https://researchgate.net/profile/Keerthana-Purushotham) |
-> | ❼. | **`Medium`** / **`Substack`** | [***Medium***: @*keerthanapurushotham*](https://medium.com/@keerthanapurushotham) / [***Substack***: @*keerthanapurushotham*](https://substack.com/@keerthanapurushotham) |
-> | ❽. | **`X`** **(** *twitter* **)** / **`Discord`** | [***X***: *keepur8*](https://x.com/keepur8) / [***Discord***: **747152507184349195** - **(** *keepur8* **)**](https://discord.com/users/747152507184349195) |
-> | ❾. | **`AI Chatbot`** | [***notebooklm.google***.*com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b*](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b) |
- 
-[***`back to index`***](https://github.com/keerthanap8898/bio?tab=readme-ov-file#table-of-contents)
-
 ---
 
 # 🔗 Links  
-### ❶ **`RESUME`**: 
+### ✧ **`ALL DOCS`**: 
+- #### [***`1drv.ms/f/c/0d09da568e931e81/IgAVh_acZ4x6RoLfBqVPgngUAYgxYLRQcYL8__i7YrNn06w`***](https://1drv.ms/f/c/0d09da568e931e81/IgAVh_acZ4x6RoLfBqVPgngUAYgxYLRQcYL8__i7YrNn06w)
+#### ❶ **`RESUME`**: 
 > **(** *Not a CISO / CISSP as she's uncertified but she does have comparable experience.* **)**
 > 
-> - ➀ [***drive.google.com**/file/d/1fpkiFK7ZOzuybUquIE8czLLu6xfVEFu-*](https://drive.google.com/file/d/1fpkiFK7ZOzuybUquIE8czLLu6xfVEFu-)
+> - ➀ [*1drv.ms/b/c/0d09da568e931e81/IQBP3oJ0TEdhRbeydrnqZZIFAbRhzzJ80DUWb-e7UIxmaW4*](https://1drv.ms/b/c/0d09da568e931e81/IQBP3oJ0TEdhRbeydrnqZZIFAbRhzzJ80DUWb-e7UIxmaW4)
 > - ➁ [ ***ALT*** ]: [***overleaf.com**/read/ttkbttqdtwhz#23974e - **in case drive isn't accessible on your employer's VPN***](https://www.overleaf.com/read/ttkbttqdtwhz#23974e)
 
-### ❷ **`PORTFOLIO`**:
-> **(** *Transcripts, certificates, & LORs.* **)**
-> 
-> - [***drive.google.com**/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU*](https://drive.google.com/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU)
+#### ❷ **`PORTFOLIO & AUDIO Summary`**:
+##### **(** *Transcripts, certificates, & LORs.* **)**
+ > - **Portfolio** - [*1drv.ms/b/c/0d09da568e931e81/IQBU4lSGv2dMR6W05yJO3A0BAfBLHcMym0ozPRmYSbRc5fM*](https://1drv.ms/b/c/0d09da568e931e81/IQBU4lSGv2dMR6W05yJO3A0BAfBLHcMym0ozPRmYSbRc5fM)
+ > - **NotebookLM Audio Summary** - [*1drv.ms/u/c/0d09da568e931e81/IQAF-GdN828ZSo24jCo60FhdAR5VA454gnNFCU_haUGKhO4*](https://1drv.ms/u/c/0d09da568e931e81/IQAF-GdN828ZSo24jCo60FhdAR5VA454gnNFCU_haUGKhO4)
 
- ❸ **`LinkedIn`**: [*linkedin.com/in/keerthanapurushotham*](https://linkedin.com/in/keerthanapurushotham)
+ ❸ **`LinkedIn`**: 
+ > - [*linkedin.com/in/keerthanapurushotham*](https://linkedin.com/in/keerthanapurushotham)
  
- ❹ **`GitHub`**: [*keerthanap8898.github.io/keerthanap8898*](https://keerthanap8898.github.io/keerthanap8898) **|** [*github.com/keerthanap8898*](https://github.com/keerthanap8898) **|** [*github.com/keerthanap8898?tab=repositories*](https://github.com/stars/keerthanap8898/lists/for-the-recruiter)
+ ❹ **`GitHub`**: 
+ > - [*keerthanap8898.github.io/keerthanap8898*](https://keerthanap8898.github.io/keerthanap8898)
+ > - [*github.com/keerthanap8898*](https://github.com/keerthanap8898)
+ > - [*github.com/keerthanap8898?tab=repositories*](https://github.com/stars/keerthanap8898/lists/for-the-recruiter)
  
- ❺ **`Public Mention`**: [*forum.posit.co/t/r-language-openssl-vulnerability/186809/5*](https://forum.posit.co/t/r-language-openssl-vulnerability/186809/5#:~:text=changelog%20%20%7C%20head%20%2D2-,which%20will%20lead%20to,-%23%20rpm%20%2Dq%20openssl)
+ ❺ **`Public Mention`**: 
+ > - [*forum.posit.co/t/r-language-openssl-vulnerability/186809/5*](https://forum.posit.co/t/r-language-openssl-vulnerability/186809/5#:~:text=changelog%20%20%7C%20head%20%2D2-,which%20will%20lead%20to,-%23%20rpm%20%2Dq%20openssl)
 
- ❻ **`AI Chatbot trained on Keerthana's Profile`**: 
-> **(** *googleLM* **)**
-> 
+ ❻ **`AI Chatbot trained on Keerthana's Profile`**: **(** *googleLM* **)**
 > - [***notebooklm.google**.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b*](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b?artifactId=133e9897-8c8b-4dcf-89e3-a0a0da965655)
 
  ❼ **`Research`**:
 >    - ➀ **Google Scholar** - [*scholar.google.com/citations?user=tWzF13sAAAAJ*](https://scholar.google.com/citations?user=tWzF13sAAAAJ)  
->    - ➁ **Medium** - [*medium.com/@keerthanapurushotham*](https://medium.com/@keerthanapurushotham)
->    - ➂ **Substack** - [*substack.com/@keerthanapurushotham*](https://substack.com/@keerthanapurushotham)
->    - ➃ **ResearchGate** - [*researchgate.net/profile/Keerthana-Purushotham*](https://www.researchgate.net/profile/Keerthana-Purushotham)
->    - ➄ **Google-LM Audio Summary** ( *G-Drive* ) - [*drive.google.com/file/d/1TIv9bmw2HRo9JkZyHOzG4XH6CTmgmjTd*](https://drive.google.com/file/d/1TIv9bmw2HRo9JkZyHOzG4XH6CTmgmjTd)
->    - ➅ **Scopus Author Profile** - [*scopus.com/authid/detail.uri?authorId=57221594595*](https://www.scopus.com/authid/detail.uri?authorId=57221594595)
->    - ➆ **ORCiD Author Profile** - [*orcid.org/0009-0000-8197-7048*](https://orcid.org/0009-0000-8197-7048)
->    - ➇ **IEEE Author Profile** - [*ieeexplore.ieee.org/author/37088644371*](https://ieeexplore.ieee.org/author/37088644371)
->    - ➈ **ACL Anthology Author Profile** - [*aclanthology.org/people/keerthana-purushotham*](https://aclanthology.org/people/keerthana-purushotham)
+>    - ➁ **Citation in Patent** - [*scholar.google.com/scholar?as_sdt=7%2C31&as_vis=1&q=denoising+LAN+purushotham+patil+patent*](scholar.google.com/scholar?as_sdt=7%2C31&as_vis=1&q=denoising+LAN+purushotham+patil+patent)
+>    - ➂ **ResearchGate** - [*researchgate.net/profile/Keerthana-Purushotham*]
+>    - ➃ **Medium** & **Substack** - [*medium.com/@keerthanapurushotham*](https://medium.com/@keerthanapurushotham) / [*substack.com/@keerthanapurushotham*](https://substack.com/@keerthanapurushotham)(https://www.researchgate.net/profile/Keerthana-Purushotham)
+>    - ➄ **Scopus Author Profile** - [*scopus.com/authid/detail.uri?authorId=57221594595*](https://www.scopus.com/authid/detail.uri?authorId=57221594595)
+>    - ➅ **ORCiD Author Profile** - [*orcid.org/0009-0000-8197-7048*](https://orcid.org/0009-0000-8197-7048)
+>    - ➆ **IEEE Author Profile** - [*ieeexplore.ieee.org/author/37088644371*](https://ieeexplore.ieee.org/author/37088644371)
+>    - ➇ **ACL Anthology Author Profile** - [*aclanthology.org/people/keerthana-purushotham*](https://aclanthology.org/people/keerthana-purushotham)
 
  ❽ **`Other`**:
 >    - ➀ **Art Portfolio** ( *Instagram* ) - [*instagram.com/kp_artses*](https://instagram.com/kp_artses)
@@ -145,7 +127,7 @@
 > > ---
 > [***`back to index`***](https://github.com/keerthanap8898/bio?tab=readme-ov-file#table-of-contents)
 
-#### ❶ `Text To Video App`
+### ❶ `Text To Video App`
 > #### `☆` ***Async API using the Genmo Mochi-1 model hosted on 8×H100 GPU Kubernetes work nodes.***
    >   - ➀ LinkedIn - [*linkedin.com/feed/update/urn:li:ugcPost:7373897755317960704*](https://www.linkedin.com/feed/update/urn:li:ugcPost:7373897755317960704)
    >   - ➁ GitHub - [*github.com/keerthanap8898/TextToVideoAPI*](https://github.com/keerthanap8898/TextToVideoAPI)
@@ -153,8 +135,11 @@
    >   - ➃ Zenodo - [*zenodo.org/records/18065356*](https://zenodo.org/records/18065356)
    > ---
 
-#### ❷ `Accuracy Is Not Enough`
-> #### `☆` ***Confusion Matrix Metrics That Actually Work in CVE Impact Prediction***
+#### ❷ `Accuracy Is Not Enough` [*VULNCON-26*] | 30min plenary talk (*solo speaker*) — April 2026
+   > #### `☆` ***Confusion Matrix Metrics That Actually Work in CVE Impact Prediction***
+#### **˗ˏˋ ⭒** *Accepted to present a* *`30min plenary seminar`*, (*with Q&A*) *at* [***`Vulncon2026`***](first.org/conference/vulncon26). **⭒ ˎˊ˗** 
+- ##### *hosted by* [*first.org*](first.org/conference/vulncon26) & [*cve.org*](CVE.org) *in mid April, 2026*; *where Keerthana will be the **`solo author/speaker`***.
+   >
    > ##### ***An applied research summary introducing advanced confusion-matrix metrics that outperform accuracy in predicting CVE exploitability impact.***
    >   - ➀ LinkedIn - [*linkedin.com/posts/keerthanapurushotham_vulnerabilitymanagement-cve-security-activity-7374937046538436608-quKj*](https://www.linkedin.com/posts/keerthanapurushotham_vulnerabilitymanagement-cve-security-activity-7374937046538436608-quKj)
    >   - ➁ Substack - [*keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion*](https://keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion)
@@ -261,7 +246,29 @@
 >
 > [***`back to index`***](https://github.com/keerthanap8898/bio?tab=readme-ov-file#table-of-contents)
 >
-> --- 
+> ---
+ 
+# ☎️ Contact
+
+##### ➀ 🗓️ `Calendly`: [*calendly.com/keerthanap0808/30min*](https://calendly.com/keerthanap0808/30min)  
+##### ➁ 📧 `Email`: » [*keep.consult@proton.me*](mailto:keep.consult@proton.me) | » [*keerthanap0808.at.gmail.dot.com*](mailto:keerthanap0808@gmail.com)
+##### ➂ 📱 `Phone`: » [+*1 360-328-1182*](tel:+13603281182) | » [*USA eight-five-eight_203_8957*](tel:+18582038957)
+> | # | **Category** | **Links** |
+> |------|----------|-----------------------------|
+> | ⓿. | **`RESUME`** & **`PORTFOLIO`**  | [***www.overleaf.com/read/ttkbttqdtwhz#23974e***](https://www.overleaf.com/read/ttkbttqdtwhz#23974e) / [***1drv.ms/b/c/0d09da568e931e81/IQBP3oJ0TEdhRbeydrnqZZIFAbRhzzJ80DUWb-e7UIxmaW4***](https://1drv.ms/b/c/0d09da568e931e81/IQBP3oJ0TEdhRbeydrnqZZIFAbRhzzJ80DUWb-e7UIxmaW4) |
+> | ❶. | **`Matrix` (** *Element* **)** / **`Pagure`**  | [@***keepur***:*fedora.im*](https://matrix.to/#/@keepur:fedora.im) / [*pagure.io/user/**keepur***](https://pagure.io/user/keepur) |
+> | ❷. | **`Fedora`** / *fedora*:**`WIKI`** / **`Redhat`** | [*accounts.fedoraproject.org/user/**keepur***](https://accounts.fedoraproject.org/user/keepur) / [*fedoraproject.org/**wiki**/user:**keepur***](https://fedoraproject.org/wiki/User:Keepur) / [*access.redhat.com/account/**57599301***](https://access.redhat.com/account/57599301) |
+> | ❸. | **`Website` (** *personal* **)** / **`LinkedIn`** | [*keerthanap8898.**github.io**/keerthanap8898*](https://keerthanap8898.github.io/keerthanap8898) / [*linkedin.com/in/**keerthanapurushotham***](https://linkedin.com/in/keerthanapurushotham) |
+> | ❹. | **`GitHub`** / *github*-**`Repositories`** | [*github.com/**keerthanap8898***](https://github.com/keerthanap8898) / [*github.com/keerthanap8898?tab=**repositories***](https://github.com/stars/keerthanap8898/lists/for-the-recruiter) |
+> | ❺. | **`Mastodon`** / **`Bluesky`** | [@***keepur@infosec.exchange***](https://infosec.exchange/@keepur) / [@***keepur8**.bsky.social*](https://bsky.app/profile/keepur8.bsky.social) |
+> | ❻. | **`Google-Scholar`** / **`ResearchGate`** | [***scholar.google***: *user=tWzF13sAAAAJ*](https://scholar.google.com/citations?user=tWzF13sAAAAJ) / [***ResearchGate**: Keerthana Purushotham*](https://researchgate.net/profile/Keerthana-Purushotham) |
+> | ❼. | **`Medium`** / **`Substack`** | [***Medium***: @*keerthanapurushotham*](https://medium.com/@keerthanapurushotham) / [***Substack***: @*keerthanapurushotham*](https://substack.com/@keerthanapurushotham) |
+> | ❽. | **`X`** **(** *twitter* **)** / **`Discord`** | [***X***: *keepur8*](https://x.com/keepur8) / [***Discord***: **747152507184349195** - **(** *keepur8* **)**](https://discord.com/users/747152507184349195) |
+> | ❾. | **`AI Chatbot`** | [***notebooklm.google***.*com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b*](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b) |
+ 
+[***`back to index`***](https://github.com/keerthanap8898/bio?tab=readme-ov-file#table-of-contents)
+
+---
 
 ```
 Copyright Ⓒ 2025  Keerthana Purushotham <keep.consult@proton.me>.
