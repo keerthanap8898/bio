@@ -47,12 +47,12 @@
 >  
 > #### ✧  **˗ˏˋ ⭒** She was accepted to present her work, ["**`Accuracy is not Enough in Cybersecurity`**"](https://github.com/keerthanap8898/bio#:~:text=Accuracy%20Is%20Not%20Enough), as a `30min plenary seminar`, (*with Q&A*) at [**`VULNCON-26`**](https://www.first.org/conference/vulncon26); **⭒ ˎˊ˗** 
 > > - ##### *hosted by* [*first.org*](https://www.first.org) & [*CVE.org*](https://www.cve.org) *in April, 2026*; > - ##### *She will be the **`solo author/speaker`.***
-> > ---
-> >
-> > #### ❄️🏂🏻  **`She seeks impactful roles where she can drive innovation at scale`. 🤶🏻⛄**
-> >
-> > ---
-> > 
+---
+
+### ❄️🏂🏻  **`She seeks impactful roles where she can drive innovation at scale`. 🤶🏻⛄**
+
+---
+> 
 > [***`back to index`***](https://github.com/keerthanap8898/bio?tab=readme-ov-file#table-of-contents)
 
 ---
