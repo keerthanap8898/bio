@@ -1,9 +1,13 @@
-# **Keerthana Purushotham**
+> #### ✧ ***`ALL DOCS`***
+> - ###### ***MS OneDrive Folder***: [*1drv.ms/f/c/0d09da568e931e81/IgAVh_acZ4x6RoLfBqVPgngUAYgxYLRQcYL8__i7YrNn06w*](https://1drv.ms/f/c/0d09da568e931e81/IgAVh_acZ4x6RoLfBqVPgngUAYgxYLRQcYL8__i7YrNn06w)
+
+---
+# **`Keerthana Purushotham`**
 *aka*  -  ***`K.P.`***
 #### **˗ˏˋ ⭒**  [*github.com/stars/keerthanap8898/lists/for-the-recruiter*](https://github.com/stars/keerthanap8898/lists/for-the-recruiter)  **⭒ ˎˊ˗**
 > `> ◯ ☽ Computer Scientist ◐ Software Developer ◑ Research Engineer ❨ ☼`
 > 
-> **(** *Last updated on **`Mar 5th, 2026` - `12:14pm`** PST* **)**
+> **(** *Last updated on **`Mar 16th, 2026` - `03:10pm`** PST* **)**
 >
 ---
 > ### **`Table of Contents`:**
@@ -39,7 +43,10 @@
 > > - She has contributed significantly to **system design** efforts, ensuring that critical security information is incorporated effectively into real-world defenses.
 > > - Her niche in `AI`, `NLP`, & `computational statistics` enables her to apply rigorous statistical methods to **security analysis**, **threat modeling**, & **security R&D**.
 > >   
-> ##### ✧ Between 2021 & 2025, she's successfully `published multiple research articles` that have accumulated about **`50 citations`** as of 2025, in conferences & journals like **`IEEE`**, **`ACL`**, **`OpenAire`**, etc.
+> #### ✧  Between 2021 & 2025, she's successfully `published multiple research articles` in conferences & journals like **`IEEE`**, **`ACL`**, **`OpenAire`**, etc., that have accumulated over **`53 citations`** as of 2025, including one in the [**Patent #`US12165286B1`** - *patents.google.com/patent/US12165286B1*](https://1drv.ms/b/c/0D09DA568E931E81/ASSCaYpRJH1ApwRUDyWBbH4).
+>  
+> #### ✧  **˗ˏˋ ⭒** She was accepted to present her work, ["**`Accuracy is not Enough in Cybersecurity`**"](https://github.com/keerthanap8898/bio#:~:text=Accuracy%20Is%20Not%20Enough), as a `30min plenary seminar`, (*with Q&A*) at [**`VULNCON-26`**](https://www.first.org/conference/vulncon26); **⭒ ˎˊ˗** 
+> > - ##### *hosted by* [*first.org*](https://www.first.org) & [*CVE.org*](https://www.cve.org) *in April, 2026*; > - ##### *She will be the **`solo author/speaker`.***
 > > ---
 > >
 > > #### ❄️🏂🏻  **`She seeks impactful roles where she can drive innovation at scale`. 🤶🏻⛄**
