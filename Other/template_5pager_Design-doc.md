@@ -14,7 +14,7 @@
 ```
 ---
 
-## `1-pager` <Project Name> – MVP & Open-source Design Document
+## `5-pager` <Project Name> – MVP & Open-source Design Document
 [ *`<Optional status note or version>`* ]
 
 ---
